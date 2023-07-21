@@ -1,0 +1,127 @@
+<div class="container">
+  <section>
+    <p>
+      Táto stránka je spravovaná nezávislou mimovládnou organizáciou <a href="http://cvek.sk/">CVEK</a> (Centrum pre výskum etnicity a
+      kultúry).
+    </p>
+    <a href="http://cvek.sk/">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/cvek-logo.png">
+    </a>
+    <a href="http://cvek.sk/">
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/spv-logo.png">
+    </a>
+  </section>
+  <nav>
+    <ul>
+
+      <li>
+        <a href="{{ SITEURL }}">Domov</a>
+      </li>
+
+      <li>
+        {% set page = pages|selectattr("slug", "equalto", "o-utecencoch")|first %}
+        <a href="{{ page.url }}">{{ page.url }}</a>
+
+        <ul class="ms-3 p-0">
+          {% for child in page.children recursive %}
+
+          <li>
+            <a href="{{ child.url }}">{{ child.menutitle }}</a>
+            {% if child.children %}
+            <ul class="ms-3 p-0">
+              {{ loop(child.children) }}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+
+        </ul>
+
+      </li>
+
+      <li>
+        {% set page = pages|selectattr("slug", "equalto", "integracia")|first %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+
+        <ul class="ms-3 p-0">
+          {% for child in page.children recursive %}
+
+          <li>
+            <a href="{{ child.url }}">{{ child.menutitle }}</a>
+            {% if child.children %}
+            <ul class="ms-3 p-0">
+              {{ loop(child.children) }}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+
+        </ul>
+
+      </li>
+
+      <li>
+        {% set page = pages|selectattr("slug", "equalto", "komunikacia")|first %}
+        <a href="{{ page.url }}">{{ page.menutitle }}</a>
+
+        <ul class="ms-3 p-0">
+          {% for child in page.children recursive %}
+
+          <li>
+            <a href="{{ child.url }}">{{ child.menutitle }}</a>
+            {% if child.children %}
+            <ul class="ms-3 p-0">
+              {{ loop(child.children) }}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+
+        </ul>
+
+      </li>
+
+      <li>
+        {% set page = pages|selectattr("slug", "equalto", "poznanie-situacie")|first %}
+        <a href="{{ page.url }}">{{ page.menutitle }}</a>
+
+        <ul class="ms-3 p-0">
+          {% for child in page.children recursive %}
+
+          <li>
+            <a href="{{ child.url }}">{{ child.menutitle }}</a>
+            {% if child.children %}
+            <ul class="ms-3 p-0">
+              {{ loop(child.children) }}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+
+        </ul>
+
+      </li>
+
+      <li>
+        {% set page = pages|selectattr("slug", "equalto", "odborne-vzdelavanie")|first %}
+        <a href="{{ page.url }}">{{ page.menutitle }}</a>
+
+        <ul class="ms-3 p-0">
+          {% for child in page.children recursive %}
+
+          <li>
+            <a href="{{ child.url }}">{{ child.menutitle }}</a>
+            {% if child.children %}
+            <ul class="ms-3 p-0">
+              {{ loop(child.children) }}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+
+        </ul>
+      </li>
+
+    </ul>
+  </nav>
+</div>

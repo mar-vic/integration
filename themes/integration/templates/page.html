@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+
+{% block content %}
+
+<div class="container">
+
+  <div class="row">
+    {% if page.showpagehierarchy != 'False' %}
+    <aside class="col-2 order-1">
+      {% include "./partials/_page-hierarchy-nav.html" %}
+    </aside>
+    {% endif %}
+
+  <main class="col order-2">
+    <div class="row">
+
+      <!-- Page content -->
+      <article class="col">
+        <header>
+          <h1 data-toc-skip>{{ page.title }}</h1>
+        </header>
+        {{ page.content }}
+      </article>
+
+      <!-- Page TOC -->
+      {% if page.showtoc != 'False' %}
+      <section class="col-3">
+        <header>
+          <h2 data-toc-skip>Na tejto stránke</h2>
+        </header>
+        <nav id="toc" data-toggle="toc"></nav>
+      </section>
+      {% endif %}
+
+    </div>
+  </main>
+  </div>
+
+</div>
+
+{% endblock %}
+

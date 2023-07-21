@@ -1,0 +1,78 @@
+[input]
+base_directory = "content"
+html_selector = "main"
+
+[[input.files]]
+path = "pages/integracia/byvanie.md"
+url = "/integracia/byvanie/"
+title = "Bývanie"
+
+[[input.files]]
+path = "pages/integracia.md"
+url = "/integracia/"
+title = "Integrácia"
+
+[[input.files]]
+path = "pages/komunikacia/komunikacia-odidenci.md"
+url = "/komunikacia/komunikacia-odídenci/"
+title = "Poskytovanie informácií utečencom / odídencom"
+
+[[input.files]]
+path = "pages/komunikacia/komunikacia-verejnost.md"
+url = "/komunikacia/komunikacia-verejnost/"
+title = "Komunikácia s verejnosťou"
+
+[[input.files]]
+path = "pages/komunikacia.md"
+url = "/komunikacia/"
+title = "Komunikácia a informovanosť"
+
+[[input.files]]
+path = "pages/integracia/komunitne.md"
+url = "/integracia/komunitne-aktiviy/"
+title = "Komunitné aktivity"
+
+[[input.files]]
+path = "pages/integracia/kulturny-sok.md"
+url = "/integracia/kulturny-sok/"
+title = "Kultúrny šok a s ním súvisiace potreby utečencov / odídencov"
+
+[[input.files]]
+path = "pages/o-integracii.md"
+url = "/o-integracii/"
+title = "O integrácii"
+
+[[input.files]]
+path = "pages/o-nas.md"
+url = "/o-nas/"
+title = "O nás"
+
+[[input.files]]
+path = "pages/o-utecencoch.md"
+url = "/o-utecencoch/"
+title = "O utečencoch"
+
+[[input.files]]
+path = "pages/odborne-vzdelavanie.md"
+url = "/odborne-vzdelavanie/"
+title = "Odborné vzdelávanie a budovanie kapacít"
+
+[[input.files]]
+path = "pages/poznanie.md"
+url = "/poznanie-situacie/"
+title = "Poznanie situácie - dáta a mapovanie potrieb"
+
+[[input.files]]
+path = "pages/integracia/socialne-veci.md"
+url = "/integracia/socialne-veci/"
+title = "Sociálne veci"
+
+[[input.files]]
+path = "pages/integracia/vzdelavanie-deti.md"
+url = "/integracia/vzdelavanie-deti/"
+title = "Vzdelávanie detí"
+
+[[input.files]]
+path = "pages/integracia/zdravotna-starostlivost.md"
+url = "/integracia/zdravotna-starostlivost/"
+title = "Zdravotná starostlivosť"

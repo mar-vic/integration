@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+
+<main class="container">
+
+  <article>
+
+    <div class="px-4 py-5">
+      <div class="row align-items-center g-lg-5 py-5">
+        <div class="col-lg-7 text-center text-lg-start">
+          <h1 class="display-4 fw-bold lh-1 mb-3">Integration</h1>
+          <p class="col-lg-10 fs-4">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.
+          </p>
+          <a class="lead mb-4 fs-4" href="#">Viac o nás</a>
+        </div>
+        <div class="col-md-10 mx-auto col-lg-5">
+          <aside>
+            <label for="main-search">Search</label>
+            <input data-stork="sitesearch" id="main-search" name="main-search">
+            <div data-stork="sitesearch-output"></div>
+          </aside>
+        </div>
+      </div>
+    </div>
+</main>
+
+
+<aside class="container">
+  <nav>
+    <ul>
+      {% for menuitem in MENUITEMS[1:] %}
+      <li><a href="{{ menuitem[1] }}">{{ menuitem[0] }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</aside>
+
+{% endblock %}

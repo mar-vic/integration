@@ -1,0 +1,157 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="app-masthead">
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds-from-desktop">
+        <h1 class="govuk-heading-xl app-masthead__title">Pellentesque condimentum, magna ut suscipit hendrerit</h1>
+        <p class="app-masthead__description">Donec vitae dolor.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.</p>
+        <a href="/who-we-are/" role="button" draggable="false" class="govuk-button app-button--inverted govuk-!-margin-top-6 govuk-!-margin-bottom-0 govuk-button--start" data-module="govuk-button">
+          More
+          <svg class="govuk-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false">
+            <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z"/>
+          </svg>
+        </a>
+      </div>
+      <div class="govuk-grid-column-one-third-from-desktop">
+        <img class="app-masthead__image" style="width:100%;" src="{{ SITEURL }}/{{THEME_STATIC_DIR }}/images/europe.png" alt="" role="presentation">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="app-news">
+  <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds-from-desktop">
+        <h2 class="govuk-heading-l">Cum sociis natoque</h2>
+        <p class="govuk-body">
+          Nullam tristique diam non turpis. Phasellus neque orci, porta a, aliquet quis, semper a, massaDonec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Cras placerat accumsan nulla.Aliquam feugiat tellus ut neque.
+        </p>
+        <p class="govuk-body">
+          <a class="govuk-link" href="#">Pellentesque condimentum magna</a>
+          .
+        </p>
+        <p class="govuk-body">
+          <a class="govuk-link" href="#">Etiam vel tortor sodales tellus ultricies</a>
+          .
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="govuk-width-container">
+  <div class="govuk-main-wrapper govuk-main-wrapper--l">
+    <h3 class="govuk-heading-m">Topics</h3>
+
+    <!-- FIRST ROW OF CARDS -->
+    <div class="row">
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Nullam tristique diam non turpis.</h4>
+            </a>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Nullam tristique diam non turpis.Sed id ligula quis</h4>
+            </a>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.Fusce sagittis, libero non molestie mollis.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Nullam tristique diam non turpis.Nunc eleifend leo vitae magna.</h4>
+            </a>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- END FIRST ROW -->
+
+    <!-- SECOND ROW -->
+    <div class="row">
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Nullam tristique diam non turpis.Nullam tristique diam non turpis.</h4>
+            </a>
+            <p class="card-text">Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">In id erat non orci commodo lobortis.</h4>
+            </a>
+            <p class="card-text">Phasellus at dui in ligula mollis ultricies.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Pellentesque dapibus suscipit ligula.</h4>
+</a>
+            <p class="card-text">Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.</p>
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- END SECOND ROW -->
+
+    <!-- THIRD ROW -->
+    <div class="row">
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Vivamus id enim.</h4>
+            </a>
+            <p class="card-text">Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-4">
+        <div class="card topic-card" style="width: 18rem;">
+          <div class="card-body">
+            <a href="#" class="govuk-link">
+              <h4 class="govuk-heading-s">Nullam tristique diam non turpis.</h4>
+            </a>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div> <!-- END SECOND ROW -->
+  </div>
+</div>
+
+<!-- FEATURES -->
+{% include "./partials/_featured-teasers.html" %}
+
+{% endblock content %}

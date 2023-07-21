@@ -1,0 +1,9 @@
+{% macro descriptionList(descriptions=[]) -%}
+<dl>
+  {% for term, detail in descriptions %}
+  <dt>{{ term }}</dt>
+  <dd>{{ detail }}</dd>
+  {% endfor %}
+</dl>
+{%- endmacro %}
+

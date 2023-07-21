@@ -1,0 +1,29 @@
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-body">
+
+        <div class="input-group">
+          <span class="input-group-text" data-bs-toggle="modal" data-bs-target="#searchModal" id="basic-addon1"><i class="fa-solid fa-magnifying-glass"></i></span>
+          <input id="searchModalInput" class="form-control me-2" data-stork="sitesearch" placeholder="Hľadaj" />
+        </div>
+
+        <div id="search-output" data-stork="sitesearch-output"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+var searchModal = document.getElementById('searchModal')
+var searchModalInput = document.getElementById('searchModalInput')
+var searchModalTrigger = document.getElementById('searchModalTrigger')
+
+/* Focus the input element in the modal */
+searchModal.addEventListener('shown.bs.modal', function () {
+  searchModalInput.focus()
+})
+</script>
+
+
+

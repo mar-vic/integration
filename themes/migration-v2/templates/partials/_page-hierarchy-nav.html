@@ -1,0 +1,42 @@
+<div id="page-hierarchy-nav" class="sticky-top">
+
+  {% if page.parents %}
+
+    <header>
+      <span class="d-none d-md-block h5 my-2 fw-semibold"><a href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }} </a></span>
+      <hr class="d-none d-md-block my-2">
+    </header>
+
+    {% set level = 0 %}
+
+    <ul>
+    {% for child in page.parents[0].children recursive %}
+      <li>
+        {% if child.url == page.url %}
+        <span class="active fw-semibold">{{ child.title }} </span>
+        {% else %}
+          <a href="{{ SITE_URL }}/{{ child.url }}">{{ child.title }}</a>
+        {% endif %}
+        {% if child.children and ( child.url == page.url or page.parents|map(attribute='url')|list()|select('equalto', child.url)|first() ) %}
+          <ul style="padding-left:15px">
+            {{ loop(child.children) }}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  {% else %}
+
+    <header>
+      <strong class="d-none d-md-block h5 my-2 fw-semibold">{{ page.title }}</strong>
+      <hr class="d-none d-md-block my-2">
+    </header>
+
+    <ul>
+      {% for child in page.children %}
+      <li><a href="{{ SITE_URL }}/{{ child.url }}">{{ child.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+</div>

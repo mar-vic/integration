@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}" class="govuk-template">
+<head>
+  <meta charset="utf-8">
+  <title>Migracia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b0c0c">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" sizes="16x16 32x32 48x48" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon.ico" type="image/x-icon">
+  <link rel="mask-icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/govuk-mask-icon.svg" color="#0b0c0c">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/govuk-apple-touch-icon-180x180.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/govuk-apple-touch-icon-167x167.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/govuk-apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/govuk-apple-touch-icon.png">
+
+  <!-- STYLESHEETS -->
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/govuk-frontend-4.4.0.min.css" /> <!-- GOV UK Theme -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> <!-- Bootstrap -->
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" /> <!-- My Styles -->
+
+  <!-- SEARCH -->
+  <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
+</head>
+<body id="index" class="home govuk-template__body">
+
+  <script>
+  document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+  </script>
+
+  <a href="#main-content" class="govuk-skip-link" data-module="govuk-skip-link">Skip to main content</a>
+
+  <!-- SITE HEADER (defined in partial) -->
+  {% include "./partials/_site-header.html" %}
+
+  <!-- MAIN CONTENT -->
+  <main class="govuk-main-wrapper" id="main-content" role="main">
+    {% block content %}
+    {% endblock %}
+  </main>
+
+  <!-- FOOTER (defined in partial) -->
+  {% include "./partials/_site-footer.html" %}
+
+  <!-- GOVUK JS -->
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/govuk-frontend-4.4.0.min.js"></script>
+  <script>
+  window.GOVUKFrontend.initAll()
+  </script>
+
+  <!-- BOOTSTRAP JS -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
+  <!-- SEARCH JS -->
+  <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+  <script>
+  stork.register("sitesearch", "{{ SITEURL }}/search-index.st")
+  </script>
+</body>
+</html>

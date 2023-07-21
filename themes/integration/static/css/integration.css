@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#site-footer {
+    margin-top: auto;
+}
+
+.stork-progress {
+    position: relative !important;
+}

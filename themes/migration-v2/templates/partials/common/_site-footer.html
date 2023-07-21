@@ -1,0 +1,93 @@
+<footer id="site-footer" class="p-4 mt-auto">
+  <div class="">
+
+    <div class="row">
+
+      <div class="col-3">
+        <h1 data-toc-skip class="fs-5 fw-semibold mb-3">Migration</h1>
+
+        <div class="row mb-4">
+          <div class="col">
+            Táto stránka je spravovaná nezávislou mimovládnou organizáciou <a
+          href="http://cvek.sk/">CVEK</a> (Centrum pre výskum etnicity a
+          kultúry).
+          </div>
+        </div>
+
+        <div class="row gx-5">
+          <div class="col-auto">
+            <a href="http://cvek.sk/">
+              <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/cvek-logo.png">
+            </a>
+          </div>
+          <div class="col-auto">
+            <a href="http://cvek.sk/">
+              <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/spv-logo.png">
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="site-map" class="col-6">
+        <h1 data-toc-skip class="fs-5 fw-semibold mb-3">Mapa stránok</h1>
+        <hr>
+        <div class="row">
+          <div class="col"><a href="{{ SITEURL }}/o-utecencoch">O utečencoch</a></div>
+          <div class="col">
+            <a href="{{ SITEURL }}/first-response">First Response</a>
+            {% set page = pages|selectattr("slug", "equalto", "first-response")|first %}
+            <ul class="ms-3 p-0">
+              {% for child in page.children recursive %}
+              <li><a href="{{ child.url }}">{{ child.menutitle }}</a></li>
+
+              {% if child.children %}
+              <ul class="ms-3 p-0">
+                {{ loop(child.children) }}
+              </ul>
+              {% endif %}
+
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="col"><a href="{{ SITEURL }}/vzdelavanie">Vzdelávanie</a>
+            {% set page = pages|selectattr("slug", "equalto", "vzdelavanie")|first %}
+            <ul class="ms-3 p-0">
+              {% for child in page.children recursive %}
+              <li><a href="{{ child.url }}">{{ child.menutitle }}</a></li>
+
+              {% if child.children %}
+              <ul class="ms-3 p-0">
+                {{ loop(child.children) }}
+              </ul>
+              {% endif %}
+
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="col"><a href="{{ SITEURL }}/vzdelavanie">Integrácia</a></div>
+        </div>
+      </div>
+      <div class="col-3">
+        <h1 data-toc-skip class="fs-5 fw-semibold mb-3">Externé zdroje</h1>
+        <hr>
+        <ul class="p-0 m-0">
+          <li class="mb-1"><a href="https://www.zakonypreludi.sk/zz/2008-448">Zákon o sociálnych službách</a></li>
+          <li class="mb-1"><a href="https://www.zakonypreludi.sk/zz/2013-417">Zákon o pomoci v hmotnej núdzi</a></li>
+          <li class="mb-1"><a href="https://www.zakonypreludi.sk/zz/2005-305">Zákon o sociálno-právnej ochrane</a></li>
+          <li class="mb-1"><a href="https://www.upsvr.gov.sk/media/medialne-spravy/uzitocne-informacie-pre-obcanov-ukrajiny-korisna-informacia-dla-gromadan-ukraini-useful-information-for-citizens-of-ukraine.html?page_id=1159972">Info pre odídencov z UA na stránke UPSVAR</a></li>
+          <li class=""><a href="https://www.ukraineslovakia.sk/sk/prakticke-informacie__trashed/statne-prispevky/">Ukraineslovakia</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+
+    </div>
+
+    <div id="copy" class="text-center mt-5">
+      © 2023 <strong>/</strong> developed by <a href="https://github.com/mar-vic">marvic</a> <strong>/</strong> powered by <a href="https://getpelican.com/">Pelican</a>,
+      which takes great advantage of <a href="https://www.python.org/">Python</a>.
+    </div><!-- /#about -->
+  </div>
+</footer><!-- /#contentinfo -->

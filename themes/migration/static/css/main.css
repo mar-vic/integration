@@ -1,0 +1,226 @@
+/* import govuk design stylesheet */
+/* STYLES FOR ALL PAGES */
+body * {
+    /* font-family: open-sans, sans-serif !important; */
+    /* font-family: montserrat, sans-serif !important; */
+    font-family: roboto, sans-serif !important;
+    font-style: normal;
+    font-weight: 200;
+}
+
+#main-content {
+    padding-top: 0px;
+    margin-top: -10px;
+}
+
+.govuk-width-container {
+    max-width: 1100px;
+}
+
+.govuk-header__container {
+    border-bottom: 10px solid #0077be;
+}
+
+.govuk-button {
+    background-color: white;
+    color: #0077be !important;
+}
+
+.govuk-button:hover {
+    background-color: #e6eff4;
+}
+
+.govuk-header__link--homepage:hover {
+    border-bottom: none;
+    color: #0077be;
+}
+
+.govuk-link {
+    color: #0077be;
+}
+
+.govuk-link:hover {
+    text-decoration-thickness: 3px;
+    text-underline-offset: .1em;
+    color: #204a87;
+}
+
+.govuk-link-no-underline {
+    color: #0077be;
+}
+
+.govuk-link-no-underline:hover {
+    text-decoration-thickness: 3px;
+    text-underline-offset: .1em;
+    color: #204a87;
+}
+
+.govuk-header__navigation-item--active a {
+    color: #0077be !important;
+    text-decoration: underline;
+    text-decoration-thickness: 10px !important;
+    text-underline-offset: 14px !important;
+}
+
+.govuk-header__logotype-text {
+    /* font-weight: bold; */
+}
+
+.migration-page-nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.migration-page-nav li {
+    margin-left: -14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    padding-left:10px;
+    border-left: solid 4px white;
+}
+
+.migration-page-nav-active {
+    border-left:solid 4px #204a87 !important;
+}
+
+.migration-page-nav-active a {
+    font-weight: bold;
+}
+
+.migration-page-nav a {
+    text-decoration: none;
+}
+
+.migration-page-nav a:hover {
+    text-decoration-thickness: 3px !important;
+    text-underline-offset: .2em !important;
+    color: #204a87;
+    text-decoration: underline;
+}
+
+#search-input {
+    /* border: 2px solid red !important; */
+    margin-left: 20px;
+}
+
+#search-input input {
+    width: 188px !important;
+}
+
+#search-output {
+    background-color: white !important;
+}
+
+.stork-close-button {
+    top: 11px;
+    left: 1067.2px;
+    height: 24.2px !important;
+    width: 24.2px !important;
+    border-radius: 0px !important;
+    background-color: black !important;
+    background: none !important;
+    color: #204a87 !important;
+    border: 2px solid #204a87 !important;
+}
+
+.stork-close-button svg {
+    top: -1px !important;
+}
+
+.topic-card {
+    border: none !important;
+    border-top: 1px solid #b1b4b6 !important;
+    border-radius: 0;
+    width: 95% !important;
+    padding-bottom: 20px;
+}
+
+.topic-card h4, .topic-card a {
+    color: #0077be !important;
+}
+
+.topic-card h4:hover, .topic-card a:hover {
+    color: #204a87 !important;
+}
+
+.topic-card .govuk-link::before {
+    border-right: 3px solid #0077be;
+    border-top: 3px solid #1d70b8;
+    content: "";
+    height: 10px;
+    position: absolute;
+    right: 5px;
+    top: 24px;
+    -webkit-transform: translateY(0) rotate(45deg) scale(1);
+    -ms-transform: translateY(0) rotate(45deg) scale(1);
+    transform: translateY(0) rotate(45deg) scale(1);
+    width: 10px;
+}
+
+.topic-card .govuk-link:hover::before {
+    border-right: 3px solid #204a87;
+    border-top: 3px solid #204a87;
+}
+
+.article-teaser-card {
+    border: none !important;
+    border-top: 1px solid #b1b4b6 !important;
+    border-radius: 0;
+    padding-bottom: 20px;
+    width: 90% !important;
+}
+
+.article-teaser-card img {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 190px;
+    border-radius: 0 !importantt;
+}
+
+.article-teaser-card .card-body {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.article-teaser-card h3, .article-teaser-card a {
+    color: #0077be !important;
+}
+
+.article-teaser-card h3:hover, .article-teaser-card a:hover {
+    color: #204a87 !important;
+}
+
+/* STYLES FOR INDEX PAGE */
+/* MASTHEAD COMPONENT */
+.app-masthead {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #0077be !important;
+    /* background-color: #006994; */
+    /* background-color: #234f66; */
+    /* background-color: #64a5c7; */
+    color: white;
+}
+
+.app-masthead__title {
+    margin-bottom: 30px;
+    color: white;
+}
+
+.app-masthead__description {
+    font-size: 1.5rem;
+    line-height: 1.25;
+    font-weight: 400;
+}
+
+/* NEWS COMPONENT */
+.app-news {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #b1b4b6;
+    background-color: #f8f8f8;
+}
+
+RULES FOR PAGE

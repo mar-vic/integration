@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(page) %}
+    {{ translations.entry_hreflang(page) }}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+<main class="govuk-main-wrapper govuk-width-container" style="padding-top:30px;" id="main-content" role="main">
+
+    <div class="row">
+      {% if page.children %}
+      <div class="col-4">
+        <nav class="migration-page-nav">
+        <ul>
+          {% for child in page.children %}
+          <li><a class="govuk-link-no-underline" href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></li>
+          {% endfor %}
+        </ul>
+        </nav>
+      </div>
+      {% endif %}
+      {% if page.parent %}
+      <div class="col-4">
+        <nav class="migration-page-nav">
+          <ul>
+            {% for child in page.parent.children %}
+            {% if child.slug == page.slug %}
+            <li class="migration-page-nav-active"><a class="govuk-link-no-underline"  href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></li>
+            {% else %}
+            <li><a class="govuk-link-no-underline" href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      {% endif %}
+      <div class="col">
+        <!-- PAGE TITLE -->
+        {% if page.parent %}
+        <span class="govuk-caption-xl">{{ page.parent.title }}</span>
+        {% endif %}
+        <h1 class="govuk-heading-xl">{{ page.title }}</h1>
+        {% import 'translations.html' as translations with context %}
+        {{ translations.translations_for(page) }}
+
+        <!-- PAGE CONTENT -->
+        <div class="app-prose-scope govuk-body">
+          {{ page.content }}
+        </div>
+      </div>
+    </div>
+
+</main>
+{% endblock %}

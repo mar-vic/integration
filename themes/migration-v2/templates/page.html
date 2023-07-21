@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(page) %}
+    {{ translations.entry_hreflang(page) }}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+
+<div id="pageMasthead" class="pt-5 pb-5 mb-4">
+  <div class="container">
+    <div class="row">
+      {% if page.showpagehierarchy != 'False' and (page.children or page.parents) %}
+      <div class="col-sm-2"></div>
+      {% endif %}
+
+      <div class="col-sm">
+        <h1 class="display-5 fw-semibold">{{ page.title }}</h1>
+      </div>
+
+      <div class="col-sm-{% if page.showsubpages == 'True' %}2{% else %}3{% endif %}"></div>
+    </div>
+  </div>
+</div>
+
+<div class="container mt-2">
+  <div class="row">
+
+    <!-- SUBPAGES MENU -->
+    {% if page.showpagehierarchy != 'False' and (page.children or page.parents) %}
+    <div class="col-sm-2 fs-6">
+      {% include 'partials/_page-hierarchy-nav.html' %}
+    </div>
+    {% endif %}
+
+    <!-- CONENT OF THE PAGE -->
+    <div id="page-content" class="col-sm fs-5">
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(page) }}
+      {{ page.content }}
+    </div>
+
+    <!-- PAGE TOC -->
+    {% if page.showtoc == 'True' %}
+    <div class="col-sm-{% if page.showsubpages == 'True' %}2{% else %}3{% endif %}">
+      {% include 'partials/_page-toc.html' %}
+    </div>
+    {% endif %}
+  </div>
+
+  {% if page.modified %}
+  <p>
+    Last updated: {{ page.locale_modified }}
+  </p>
+  {% endif %}
+</div>
+{% endblock %}

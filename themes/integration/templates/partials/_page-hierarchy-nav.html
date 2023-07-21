@@ -1,0 +1,38 @@
+<nav>
+  {% if page.parents %}
+  <header>
+    <a href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }}</a>
+  </header>
+
+  {% set level = 0 %}
+
+  <ul>
+    {% for child in page.parents[0].children recursive %}
+    <li>
+      {% if child.url == page.url %}
+      <span class="active">{{ child.menutitle }}</span>
+      {% else %}
+      <a href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a>
+      {% endif %}
+      {% if child.children and ( child.url == page.url or page.parents|map(attribute='url')|list()|select('equalto', child.url)|first() ) %}
+      <ul style="padding-left:15px">
+        {{ loop(child.children) }}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% else %}
+
+  <header>
+    <h2 data-toc-skip>Podstránky</h2>
+  </header>
+  <ul>
+    {% for child in page.children %}
+    <li><a href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% endif %}
+</nav>

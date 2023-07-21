@@ -1,0 +1,20 @@
+{% macro fieldset(heading='Fieldset heading', fields=[]) -%}
+
+<fieldset class="govuk-fieldset">
+  <legend class="govuk-fieldset__legend govuk-fieldset__legend--l">
+    <h1 class="govuk-fieldset__heading">
+      {{ heading }}
+    </h1>
+  </legend>
+  {% for field in fields %}
+  <div class="govuk-form-group">
+    <label class="govuk-label" for="address-line-1">
+      {{ field }}
+    </label>
+    <input class="govuk-input" id="{{ field | list | join('-')}}" name="{{ field | list | join('-')}}" type="text" autocomplete="{{ field | list | join('-')}}">
+  </div>
+  {% endfor %}
+
+</fieldset>
+
+{%- endmacro %}

@@ -1,0 +1,21 @@
+{% macro tabbedSections(sections=[]) -%}
+
+<div class="d-flex align-items-start">
+
+  <!-- TABS -->
+  <div class="nav flex-column nav-pills me-4" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+  {% for tab, content in sections %}
+    <button class="nav-link {% if loop.index == 1 %}active{% endif %}" id="v-pills-{{ loop.index0 }}-tab" data-bs-toggle="pill" data-bs-target="#v-pills-{{ loop.index0 }}" type="button" role="tab" aria-controls="v-pills-{{ loop.index0 }}" aria-selected="true">{{ tab }}</button>
+  {% endfor %}
+  </div>
+
+  <!-- SECTIONS -->
+  <div class="tab-content" id="v-pills-tabContent">
+  {% for tab, content in sections %}
+    <div class="tab-pane fade show {% if loop.index == 1 %}active{% endif %}" id="v-pills-{{ loop.index0 }}" role="tabpanel" aria-labelledby="v-pills-{{ loop.index0 }}-tab" tabindex="{{ loop.index0 }}">{{ content }}</div>
+  {% endfor %}
+  </div>
+
+</div>
+
+{%- endmacro %}

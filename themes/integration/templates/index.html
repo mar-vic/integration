@@ -1,39 +1,83 @@
 {% extends "base.html" %}
 {% block content %}
 
-<main class="container">
-
-  <article>
-
-    <div class="px-4 py-5">
-      <div class="row align-items-center g-lg-5 py-5">
-        <div class="col-lg-7 text-center text-lg-start">
-          <h1 class="display-4 fw-bold lh-1 mb-3">Integration</h1>
-          <p class="col-lg-10 fs-4">
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.
-          </p>
-          <a class="lead mb-4 fs-4" href="#">Viac o nás</a>
-        </div>
-        <div class="col-md-10 mx-auto col-lg-5">
-          <aside>
-            <label for="main-search">Search</label>
-            <input data-stork="sitesearch" id="main-search" name="main-search">
-            <div data-stork="sitesearch-output"></div>
-          </aside>
+<main class="container col-xxl-8 px-1 py-5 my-2">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/migration.png" class="d-block mx-lg-auto img-fluid" alt="Symbolic representation of migration." width="700" height="500" loading="lazy">
+      </div>
+      <div class="col-lg-6">
+        <h1 class="display-4 fw-bold lh-1 mb-3">Integration</h1>
+        <p class="fs-4">
+          Táto webstránka je určená najmä samosprávam a ďalším aktérom, ktorí sa na lokálnej úrovni venujú téme začleňovania cudzincov, ale najmä ľudí na úteku (odídencov) do miestnych spoločenstiev.
+        </p>
+        <div class="fs-4 d-grid gap-2 d-md-flex justify-content-md-start">
+          <a href="#">Viac o nás</a>
         </div>
       </div>
     </div>
 </main>
 
+<aside class="container px-4 py-5 my-2">
+  <div class="row justify-content-center">
+    <div class="col-auto">
+      <header><h2 class="display-6 fw-semibold lh-1 mb-3">Vyhľadávanie</h2></header>
+    </div>
+    <div class="col">
+      <input id="main-search" data-stork="sitesearch" class="form-control fs-4" type="text" placeholder="" aria-label="Search">
+      <div data-stork="sitesearch-output">
+      </div>
+    </div>
+</aside>
 
-<aside class="container">
-  <nav>
-    <ul>
-      {% for menuitem in MENUITEMS[1:] %}
-      <li><a href="{{ menuitem[1] }}">{{ menuitem[0] }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+<aside class="container overflow-hidden px-4 py-5 my-2">
+  <header><h2 class="display-6 fw-semibold lh-1 mb-3">Sekcie</h2></header>
+  <div class="row gx-4 gy-4 justify-content-center">
+
+    <div class="col-4">
+      <section class="p-3 feature">
+        <header>
+          <h3 class="fs-3 fw-bold"><a href="{{ SITEURL }}/o-utecencoch">O utečencoch</a></h3>
+        </header>
+        <p class="fw-light">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+      </section>
+    </div>
+
+    <div class="col-4">
+      <section class="p-3 feature">
+        <header>
+          <h3 class="fs-3 fw-bold"><a href="{{ SITEURL }}/integracia">Integrácia</a></h3>
+        </header>
+        <p class="fw-light">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+      </section>
+    </div>
+
+    <div class="col-4">
+      <section class="p-3 feature">
+        <header>
+          <h3 class="fs-3 fw-bold"><a href="{{ SITEURL }}/komunikacia">Komunikácia</a></h3>
+        </header>
+        <p class="fw-light">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+      </section>
+    </div>
+
+    <div class="col-4">
+      <section class="p-3 feature">
+        <header>
+          <h3 class="fs-3 fw-bold"><a href="{{ SITEURL }}/poznanie-situacie">Poznanie situácie</a></h3>
+        </header>
+      <p class="fw-light">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+      </section>
+    </div>
+
+    <div class="col-4">
+      <section class="p-3 feature">
+        <h3 class="fs-3 fw-bold"><a href="{{ SITEURL }}/odborne-vzdelavanie">Odborné vzdelávanie</a></h3>
+        <p class="fw-light">Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+      </section>
+    </div>
+
+  </div>
 </aside>
 
 {% endblock %}

@@ -26,7 +26,6 @@
   <link rel="stylesheet" href="/static/css/integration.css" />
 
   <!-- STORK SEARCH STYLES -->
-  <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 
 </head>
 <body data-bs-spy="scroll" data-bs-target="#toc">
@@ -46,13 +45,23 @@
         <li class="nav-item"><a class="nav-link" href="/poznanie-situacie">Poznanie situácie</a></li>
         <li class="nav-item"><a class="nav-link" href="/odborne-vzdelavanie">Odborné vzdelávnie</a></li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+      <div class="d-flex">
+        <button id="search-btn" class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+      </div>
     </div>
   </div>
 </nav>  </header>
+
+  <aside id="sitesearch" class="px-4 py-5 my-2 d-none">
+    <div class="container">
+      <header><h2 class="display-6 fw-semibold lh-1 mb-3">Vyhľadaj na integration.sk</h2></header>
+      <div class="input-group">
+        <input id="search-input" data-stork="sitesearch" class="form-control fs-4" type="text" placeholder="" aria-label="Search">
+      </div>
+      <div data-stork="sitesearch-output">
+      </div>
+    </div>
+  </aside>
 
 
 <div class="container">
@@ -236,7 +245,46 @@ je posledným štádiom, v ktorom si ľudia vytvárajú mechanizmy zvládania a 
   <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
   <script>
   stork.register("sitesearch", "/search-index.st")
+
+  let searchContainer = document.getElementById("sitesearch"); // get a reference to p and cache it
+
+  function showSearch() {
+    searchContainer.classList.toggle('d-none'); // toggle the hideP class
+  }
+
+  document.getElementById('search-btn').addEventListener('click', showSearch); // add an event listener to the button
+
+  function createOrUpdateSearchEngineLink(e) {
+    if (e.target.value) {
+      let anchorNode = document.getElementById("se-link");
+      let storkMessageNode = document.getElementsByClassName("stork-message")[0];
+      if (anchorNode) {
+        anchorNode.setAttribute("href", "https://www.google.com/search?q=site:https://neon-biscotti-ede8b9.netlify.app/ "  + e.target.value)
+      } else {
+        anchorNode = document.createElement("a");
+        anchorNode.setAttribute("id", "se-link");
+        anchorNode.setAttribute("href", "https://www.google.com/search?q=site:https://neon-biscotti-ede8b9.netlify.app/ "  + e.target.value);
+        anchorNode.setAttribute("target", "blank")
+        let textNode = document.createTextNode("Vyhľadaj cez google");
+        anchorNode.appendChild(textNode);
+
+        dividerNode = document.createElement("span");
+        dividerNode.setAttribute("class", "ps-2 pe-2");
+        dividerNode.appendChild(document.createTextNode("/"));
+
+        storkMessageNode.appendChild(dividerNode);
+        storkMessageNode.appendChild(anchorNode);
+      }
+    }
+  }
+
+  const searchInput = document.getElementById("search-input");
+  searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
+
   </script>
+
+  <!-- Font awesome -->
+  <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>
 
 </body>
 </html>

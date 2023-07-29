@@ -4,39 +4,96 @@ body {
     flex-direction: column;
 }
 
-a { color: #003c63; }
-a:hover { color: #3765a3; }
+a { color: #3765a3; }
+a:hover { color: #003c63; }
 
-/* HOME PAGE */
-/* +++++++++ */
+/* SEARCH INTERFACE (STORK) */
 
-/* search input */
-#main-search {
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15), 0 3px 10px 0 rgba(0, 0, 0, 0.1);
+#sitesearch {
+    background: #f3f2f1;
+    border-bottom: 2px black solid;
+    border-top: 2px black solid;
+    padding-bottom: 100px;
+}
+
+#search-btn {
+    /* background-color: inherit; */
+    /* border: none; */
+    border: 2px solid black;
+    border-radius: 0px;
+}
+
+#sitesearch input {
+    border: 2px solid black;
+    border-radius: 0px;
 }
 
 .stork-progress {
     position: relative !important;
 }
 
+.stork-message {
+    background-color: #f3f2f1 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.stork-results {
+    list-style-type: none;
+    padding-left: 0px;
+    max-height: 50vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.stork-result {
+    border-top: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.stork-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #3765a3;
+}
+
+.stork-result:hover .stork-title {
+    text-decoration: underline;
+    color: #003c63;
+}
+
+.stork-result a {
+    color: black;
+    text-decoration: none;
+}
+
+.stork-message {
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.stork-close-button {
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: 2px solid black;
+}
+/* HOME PAGE */
+/* +++++++++ */
+
+/* search input */
+
+
+
+
 /* features */
 .feature {
-    /* border: 1px solid #ced4da; */
-    /* border-radius: 5px; */
-    /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15), 0 3px 10px 0 rgba(0, 0, 0, 0.1); */
-    /* transition: 0.4s; */
     border: none;
     border-radius: 0px;
     border-top: 2px solid black;
-}
-
-.feature:hover {
-    /* box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.15), 0 12px 40px 0 rgba(0, 0, 0, 0.1); */
-}
-
-.feature a {
-    /* color: black; */
-    /* text-decoration: none; */
 }
 
 /* FOOTER */

@@ -93,8 +93,6 @@ nav.search-active {
     /* border-bottom: 1px solid black; */
 }
 
-img
-
 /* HOME PAGE */
 /* +++++++++ */
 
@@ -104,7 +102,7 @@ img
 
 
 /* features */
-.feature {
+.card.feature {
     border: none;
     border-radius: 0px;
     border-top: 2px solid black;

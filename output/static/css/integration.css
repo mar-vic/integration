@@ -81,6 +81,20 @@ a:hover { color: #003c63; }
     padding-bottom: 7px;
     border: 2px solid black;
 }
+
+button.search-active {
+    /* border-top: none !important; */
+    /* border-bottom: none !important; */
+}
+
+nav.search-active {
+    /* padding-top: 0px; */
+    /* padding-bottom: 0px; */
+    /* border-bottom: 1px solid black; */
+}
+
+img
+
 /* HOME PAGE */
 /* +++++++++ */
 

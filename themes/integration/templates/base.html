@@ -36,7 +36,7 @@
     {% include "./partials/_site-header.html" %}
   </header>
 
-  <aside id="sitesearch" class="px-4 py-5 my-2 d-none">
+  <aside id="sitesearch" class="px-4 py-5 my-2 d-none mt-0">
     <div class="container">
       <header><h2 class="display-6 fw-semibold lh-1 mb-3">Vyhľadaj na integration.sk</h2></header>
       <div class="input-group">
@@ -70,13 +70,48 @@
   <script>
   stork.register("sitesearch", "{{ SITEURL }}/search-index.st")
 
-  let searchContainer = document.getElementById("sitesearch"); // get a reference to p and cache it
+  let searchContainer = document.getElementById("sitesearch"); // get a reference to search container p and cache it
+  let searchIcons = document.getElementsByClassName("search-icon");
+  let searchInput = document.getElementById("search-input");
+  let searchButton = document.getElementById("search-btn");
+  let mainNavBar = document.getElementById("main-nav");
 
-  function showSearch() {
-    searchContainer.classList.toggle('d-none'); // toggle the hideP class
+  console.log(searchButton);
+
+  let searchIsActive = false
+
+  function toggleSearch() {
+    searchContainer.classList.toggle("d-none"); // hide / show searchContainer
+
+    // hide / show search icons
+    Array.from(searchIcons).forEach(icon => {
+      icon.classList.toggle("d-none");
+    });
+
+    if (searchIsActive) {
+      searchIsActive = false;
+
+      searchButton.classList.toggle("search-active");
+      mainNavBar.classList.toggle("search-active");
+
+      /* clear the input box when exitin search */
+      searchInput.blur();
+      searchInput.value = "";
+
+      /* Clear search output when existing */
+      let searchOutput = document.getElementsByClassName("stork-output-visible").item(0);
+      if (searchOutput != null) {
+        Array.from(searchOutput.children).forEach(element => element.remove());
+      }
+    } else {
+      searchIsActive = true;
+      searchInput.focus();
+      searchButton.classList.toggle("search-active");
+      mainNavBar.classList.toggle("search-active");
+    }
   }
 
-  document.getElementById('search-btn').addEventListener('click', showSearch); // add an event listener to the button
+  document.getElementById('search-btn').addEventListener('click', toggleSearch); // add an event listener to the search button
 
   function createOrUpdateSearchEngineLink(e) {
     if (e.target.value) {
@@ -102,7 +137,6 @@
     }
   }
 
-  const searchInput = document.getElementById("search-input");
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>

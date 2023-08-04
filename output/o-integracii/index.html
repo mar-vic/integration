@@ -30,52 +30,40 @@
 </head>
 <body data-bs-spy="scroll" data-bs-target="#toc">
 
-  <header class="container">
-<nav id="main-nav" class="navbar navbar-expand-lg">
+  <header id="main-header">
+<nav id="main-nav" class="navbar navbar-expand-lg container">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/">Integration</a>
+    <a class="navbar-brand fw-bold fs-3" href="/">Integration</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item"><a class="nav-link" href="/o-utecencoch">O utečencoch</a></li>
-        <li class="nav-item"><a class="nav-link" href="/integracia">Integrácia</a></li>
-        <li class="nav-item"><a class="nav-link" href="/komunikacia">Komunikácia</a></li>
-        <li class="nav-item"><a class="nav-link" href="/poznanie-situacie">Poznanie situácie</a></li>
-        <li class="nav-item"><a class="nav-link" href="/odborne-vzdelavanie">Odborné vzdelávnie</a></li>
-        <!-- <li class="nav-item">
-             <a class="nav-link" href="https://www.facebook.com/CVEKsk/">
-             <img width="25" src="/static/images/facebook-icon-bw.png">
-             </a>
-             </li>
-
-             <li class="nav-item">
-             <a class="nav-link" href="https://www.facebook.com/CVEKsk/">
-             <img width="25" src="/static/images/twitter-icon-bw.png">
-             </a>
-             </li>
-
-
-             <li class="nav-item">
-             <a class="nav-link" href="https://www.facebook.com/CVEKsk/">
-             <img width="25" src="/static/images/vimeo-icon-bw.png">
-             </a>
-             </li>
-        -->
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 " href="/o-utecencoch">O utečencoch</a></li>
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 " href="/integracia">Integrácia</a></li>
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 " href="/komunikacia">Komunikácia</a></li>
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 " href="/poznanie-situacie">Poznanie situácie</a></li>
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 " href="/odborne-vzdelavanie">Odborné vzdelávnie</a></li>
       </ul>
-      <div class="d-flex">
 
-        <button id="search-btn" class="btn btn-outline-success" type="submit">
-          <i class="search-icon fa-solid fa-magnifying-glass"></i>
-          <svg class="search-icon d-none" height="0.8em" viewBox="0 0 23 24" xmlns="http://www.w3.org/2000/svg">
-            <g fill="none" fill-rule="evenodd" stroke-linecap="round">
-              <g transform="translate(-700 -149)" stroke="currentcolor" stroke-width="4">
-                <line id="a" x1="702.5" x2="720" y1="152.5" y2="170"></line>
-                <line transform="translate(711 161) rotate(-90) translate(-711 -161)" x1="702.5" x2="720" y1="152.5" y2="170"></line>
-              </g>
-            </g>
-          </svg>
+      <div class="d-flex ms-auto me-auto">
+        <a class="ms-3 me-3" href="https://www.facebook.com/CVEKsk/">
+          <i class="fa-brands fa-facebook fs-4" style="color:white"></i>
+        </a>
+
+        <a class="ms-3 me-3" href="https://www.facebook.com/CVEKsk/">
+          <i class="fa-brands fa-twitter fs-4" style="color:white;"></i>
+        </a>
+
+        <a class="ms-3 me-3" href="https://www.facebook.com/CVEKsk/">
+          <i class="fa-brands fa-vimeo-v fs-4" style="color:white;"></i>
+        </a>
+      </div>
+
+      <div class="d-flex">
+        <button id="search-btn">
+          <i class="search-icon fa-solid fa-magnifying-glass fs-4"></i>
+          <i class="fa-solid fa-xmark search-icon d-none fs-4"></i>
         </button>
       </div>
     </div>
@@ -84,7 +72,7 @@
 
   <aside id="sitesearch" class="px-4 py-5 my-2 d-none mt-0">
     <div class="container">
-      <header><h2 class="display-6 fw-semibold lh-1 mb-3">Vyhľadaj na integration.sk</h2></header>
+      <header><h2 class="data-toc-skip display-6 fw-semibold lh-1 mb-3">Vyhľadaj na integration.sk</h2></header>
       <div class="input-group">
         <input id="search-input" data-stork="sitesearch" class="form-control fs-4" type="text" placeholder="" aria-label="Search">
       </div>
@@ -102,9 +90,9 @@
     <div class="row">
 
       <!-- Page content -->
-      <article class="col">
+      <article id="page-content" class="col fs-5 mt-4">
         <header>
-          <h1 data-toc-skip>O integrácii</h1>
+          <h1 class="display-4 fw-bold" data-toc-skip>O integrácii</h1>
         </header>
         <p>Integrácia je <strong>obojstranný proces</strong>, v ktorom sa navzájom spoznávajú a ovplyvňujú komunity cudzincov/utečencov/odídencov a prijímajúca spoločnosť. <strong>Keď hovoríme o integrácii, máme na mysli vytváranie integrovanej, teda súdržnej spoločnosti</strong>.</p>
 <p><strong>V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postavení</strong>. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala <strong>pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia</strong>. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.</p>

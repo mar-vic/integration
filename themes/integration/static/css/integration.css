@@ -17,10 +17,11 @@ a:hover { color: #003c63; }
 }
 
 #search-btn {
-    /* background-color: inherit; */
-    /* border: none; */
-    border: 2px solid black;
+    background-color: inherit;
+    border: none;
     border-radius: 0px;
+    background-color: black;
+    color: white;
 }
 
 #sitesearch input {
@@ -83,6 +84,8 @@ a:hover { color: #003c63; }
 }
 
 button.search-active {
+    /* color: black !important; */
+    /* background-color: #f3f2f1 !important; */
     /* border-top: none !important; */
     /* border-bottom: none !important; */
 }
@@ -93,13 +96,31 @@ nav.search-active {
     /* border-bottom: 1px solid black; */
 }
 
+#main-header {
+    background-color: black;
+    color: white !important;
+}
+
+#main-header a {
+    color: white !important;
+}
+
+#main-header a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 8px;
+}
+
+#main-header a.active {
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 8px;
+}
+
 /* HOME PAGE */
 /* +++++++++ */
 
 /* search input */
-
-
-
 
 /* features */
 .card.feature {
@@ -120,6 +141,11 @@ nav.search-active {
 
 .sicon {
     width: 30px;
+}
+
+/* PAGE STYLES */
+#page-content p:first-of-type {
+    font-size: 1.5rem;
 }
 
 

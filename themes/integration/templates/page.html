@@ -3,11 +3,11 @@
 
 {% block content %}
 
-<div class="container">
+<div class="container mt-4">
 
   <div class="row">
     {% if page.showpagehierarchy != 'False' %}
-    <aside class="col-2 order-1">
+    <aside id="page-hierarchy" style="position:-webkit-sticky; position:sticky" class="col-2 order-1">
       {% include "./partials/_page-hierarchy-nav.html" %}
     </aside>
     {% endif %}
@@ -16,7 +16,7 @@
     <div class="row">
 
       <!-- Page content -->
-      <article id="page-content" class="col fs-5 mt-4">
+      <article id="page-content" class="col fs-5">
         <header>
           <h1 class="display-4 fw-bold" data-toc-skip>{{ page.title }}</h1>
         </header>
@@ -25,11 +25,11 @@
 
       <!-- Page TOC -->
       {% if page.showtoc != 'False' %}
-      <section class="col-3">
+      <section class="col-3 mt-3">
         <header>
-          <h2 data-toc-skip>Na tejto stránke</h2>
+          <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
         </header>
-        <nav id="toc" data-toggle="toc"></nav>
+        <nav id="toc" data-toggle="toc" class="fs-6"></nav>
       </section>
       {% endif %}
 

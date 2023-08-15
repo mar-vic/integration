@@ -139,7 +139,9 @@ a:hover { color: #003c63; }
     font-size: inherit !important;
 }
 
-#page-hierarchy a {
+#toc a:hover {
+    color: #003c63;
+    border-left: 2px solid #003c63;
 }
 
 #page-hierarchy li.active, #page-hierarchy li:hover {
@@ -160,3 +162,9 @@ a:hover { color: #003c63; }
     padding-left: 10px;
     margin-left: -14px;
 }
+
+.is-pinned header {
+    color: red !important;
+}
+
+

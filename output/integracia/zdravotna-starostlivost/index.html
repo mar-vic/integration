@@ -85,8 +85,8 @@
 <div class="container mt-4">
 
   <div class="row">
-    <aside id="page-hierarchy" style="position:-webkit-sticky; position:sticky" class="col-2 order-1">
-<nav class="mt-3 sticky-top">
+    <aside id="page-hierarchy" class="col-2 order-1">
+<nav id="page-hierarchy-nav" class="pt-3 sticky-top">
   <header class="nav-item">
     <h2 data-toc-skip class="fs-3 text-muted fw-bold"><a class="pt-2 pb-2 nav-link" href="/integracia/">Integrácia</a></h2>
   </header>
@@ -155,11 +155,13 @@
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3 mt-3">
-        <header>
-          <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
-        </header>
-        <nav id="toc" data-toggle="toc" class="fs-6"></nav>
+      <section class="col-3">
+        <div class="sticky-top pt-3">
+          <header>
+            <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
+          </header>
+          <nav id="toc" data-toggle="toc" class="fs-6 lh-s"></nav>
+        </div>
       </section>
 
     </div>
@@ -260,7 +262,6 @@
   let searchButton = document.getElementById("search-btn");
   let mainNavBar = document.getElementById("main-nav");
 
-  console.log(searchButton);
 
   let searchIsActive = false
 

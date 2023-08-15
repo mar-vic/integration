@@ -167,11 +167,13 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3 mt-3">
-        <header>
-          <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
-        </header>
-        <nav id="toc" data-toggle="toc" class="fs-6"></nav>
+      <section class="col-3">
+        <div class="sticky-top pt-3">
+          <header>
+            <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
+          </header>
+          <nav id="toc" data-toggle="toc" class="fs-6 lh-s"></nav>
+        </div>
       </section>
 
     </div>
@@ -272,7 +274,6 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
   let searchButton = document.getElementById("search-btn");
   let mainNavBar = document.getElementById("main-nav");
 
-  console.log(searchButton);
 
   let searchIsActive = false
 

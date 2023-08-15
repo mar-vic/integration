@@ -7,7 +7,7 @@
 
   <div class="row">
     {% if page.showpagehierarchy != 'False' %}
-    <aside id="page-hierarchy" style="position:-webkit-sticky; position:sticky" class="col-2 order-1">
+    <aside id="page-hierarchy" class="col-2 order-1">
       {% include "./partials/_page-hierarchy-nav.html" %}
     </aside>
     {% endif %}
@@ -25,11 +25,13 @@
 
       <!-- Page TOC -->
       {% if page.showtoc != 'False' %}
-      <section class="col-3 mt-3">
-        <header>
-          <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
-        </header>
-        <nav id="toc" data-toggle="toc" class="fs-6"></nav>
+      <section class="col-3">
+        <div class="sticky-top pt-3">
+          <header>
+            <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
+          </header>
+          <nav id="toc" data-toggle="toc" class="fs-6 lh-s"></nav>
+        </div>
       </section>
       {% endif %}
 
@@ -40,4 +42,3 @@
 </div>
 
 {% endblock %}
-

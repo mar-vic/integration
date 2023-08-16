@@ -135,6 +135,11 @@ a:hover { color: #003c63; }
     /* font-size: 1.5rem; */
 }
 
+#page-content p {
+    text-align: justify;
+    text-justify: auto;
+}
+
 #toc a {
     font-size: inherit !important;
 }

@@ -22,7 +22,8 @@ MENUITEMS = [
     ('Integrácia', SITEURL + '/' + "integracia", "Short description of the contents of this subpage"),
     ('Komunikácia', SITEURL + '/' + "komunikacia", "Short description of the contents of this subpage"),
     ('Poznanie situácie', SITEURL + '/' + "poznanie-situacie", "Short description of the contents of this subpage"),
-    ('Odborné vzdelávnie', SITEURL + '/' + "odborne-vzdelavanie", "Short description of the contents of this subpage")
+    ('Odborné vzdelávnie', SITEURL + '/' + "odborne-vzdelavanie", "Short description of the contents of this subpage"),
+    ("O nás", SITEURL + "/o-nas", "")
 ]
 
 FEED_ALL_ATOM = None

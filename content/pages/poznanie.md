@@ -8,7 +8,7 @@ ShowPageHierarchy: False
 
 Na to, aby bolo možné správne reagovať na novovzniknutú situáciu s príchodom cudzincov či odídencov (vo väčšom počte), je veľmi dôležité už od prvých dní dôsledne a efektívne zbierať dáta o prichádzajúcich ľuďoch. To umožňuje efektívnejšie nastavovať humanitárne opatrenia, krízové riešenia a neskôr aj dlhodobejšie podporné nástroje. 
 
-## Humanitárna fádza
+## Humanitárna fáza
 
 V prvých dňoch je dôležité nastavovať efektívny systém získavania informácií a dát o prichádzajúcich ľuďoch a identifikovať jednak základné údaje o nich (rod, vek, počet detí, vzdelanie) na poskytovanie efektívnych prvotných služieb, ale aj rôzne špecifické potreby súvisiace s týmito charakteristikami (napríklad ženy s malými deťmi, ľudia z etnických menšín, so zdravotným znevýhodnením či seniori). Dobré zmapovanie populácie v úvodných fázach je nevyhnutnou podmienkou nastavovania ďalších podporných opatrení a integračných služieb. 
 

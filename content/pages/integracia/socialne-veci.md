@@ -8,11 +8,11 @@ ShowPageHierarchy: True
 
 V oblasti sociálneho zabezpečenia týkajúceho sa utečencov/odídencov môžu byť aktívne aj samosprávy a ďalší aktéri na lokálnej úrovni. Hoci neposkytujú sociálne dávky, ktoré sú v kompetencii štátnej správy, môžu poskytovať jednorazové dávky, materiálnu pomoc, sociálne služby a sociálne poradenstvo. Samosprávy majú tiež dôležitú úlohu v oblasti sociálnoprávnej ochrany detí a tiež pri organizovaní aktivačných prác pre dlhodobo nezamestnaných ľudí.
 
-Pre efektívne nastavenie aktivít samosprávy v sociálnej oblasti je potrebné nielen zistiť, na akú formu pomoci a podpory majú utečenci/odídenci **na základe svojho právneho statusu nárok**, ale potrebné je tiež **zmapovať ich potreby** v sociálnej oblasti <strong style="background-color:red;color:white;">(pozri viac v sekcii Poznanie situácie - PREKLIK)</strong>.
+Pre efektívne nastavenie aktivít samosprávy v sociálnej oblasti je potrebné nielen zistiť, na akú formu pomoci a podpory majú utečenci/odídenci **na základe svojho právneho statusu nárok**, ale potrebné je tiež **zmapovať ich potreby** v sociálnej oblasti (pozri viac v sekcii [Poznanie situácie](/poznanie-situacie)).
 
 ## Humanitárna fáza
 
-S príchodom utečencov/odídencov je potrebné poskytnúť im základnú podporu zvyčajne v podobne materiálnej pomoci, jedla a humanitárnych balíčkov. Avšak potrebné je poskytnúť im aj základné informácie o ich ďalších možnostiach, keďže ďalšie formy pomoci v sociálnej oblasti súvisia s tým, aký status na Slovensku nadobudnú. Mali by teda dostať základné a zrozumiteľné informácie, ktoré ich zorientujú v týchto ďalších možnostiach <strong style="background-color:red;color:white;">(pozri viac v sekcii Poskytovanie informácií - PREKLIK)</strong>.
+S príchodom utečencov/odídencov je potrebné poskytnúť im základnú podporu zvyčajne v podobne materiálnej pomoci, jedla a humanitárnych balíčkov. Avšak potrebné je poskytnúť im aj základné informácie o ich ďalších možnostiach, keďže ďalšie formy pomoci v sociálnej oblasti súvisia s tým, aký status na Slovensku nadobudnú. Mali by teda dostať základné a zrozumiteľné informácie, ktoré ich zorientujú v týchto ďalších možnostiach (pozri viac v sekcii [Poskytovanie informácií](/komunikacia/komunikacia-odídenci/)).
 
 V humanitárnej fáze zohráva samospráva dôležitú rolu, keďže môže byť nápomocná iným subjektom **pri organizácii, zabezpečení a distribúcii humanitárnej pomoci**. Môže napríklad pomôcť poskytnutím priestorov, organizovaním dobrovoľníkov, ale aj poskytnutím zamestnancov obce, prípadne konkrétnymi formami pomoci, napríklad zabezpečením stravy pre ľudí po príchode.
 
@@ -38,7 +38,7 @@ Deti s priznaným štatútom odídenca a deti cudzincov majú tiež nárok na ur
 
 Na **štátne sociálne dávky**, ako je napríklad **príspevok pri narodení dieťaťa, prídavok na dieťa, príspevok na starostlivosť o dieťa** a pod., majú nárok iba cudzinci, ktorým bol priznaný prechodný alebo trvalý pobyt. Keďže odídencom je udelený tolerovaný pobyt, na štátne sociálne dávky nemajú nárok.
 
-Hoci **samospráva** nemá v oblasti poskytovania sociálnych dávok veľa kompetencií, môže byť **aktívna v poskytovaní informácií utečencom/odídencom** a ich nasmerovaní na ďalšie inštitúcie <strong style="background-color:red;color:white">(pozri sekciu Poskytovanie informácií – PREKLIK)</strong>. Niektoré samosprávy však poskytujú rôzne finančné alebo materiálne príspevky svojim obyvateľom, ktorí sa ocitli napríklad v krízovej životnej situácii. Samosprávy by teda mohli postupovať tak, že by preskúmali a prípadne upravili svoje vlastné pravidlá (spravidla definované v  všeobecne záväzných nariadeniach) pre poskytovanie týchto príspevkov aj utečencom/odídencom.
+Hoci **samospráva** nemá v oblasti poskytovania sociálnych dávok veľa kompetencií, môže byť **aktívna v poskytovaní informácií utečencom/odídencom** a ich nasmerovaní na ďalšie inštitúcie (pozri sekciu [Poskytovanie informácií](/komunikacia/komunikacia-odídenci/)). Niektoré samosprávy však poskytujú rôzne finančné alebo materiálne príspevky svojim obyvateľom, ktorí sa ocitli napríklad v krízovej životnej situácii. Samosprávy by teda mohli postupovať tak, že by preskúmali a prípadne upravili svoje vlastné pravidlá (spravidla definované v  všeobecne záväzných nariadeniach) pre poskytovanie týchto príspevkov aj utečencom/odídencom.
 
 ### Sociálne služby
 
@@ -64,7 +64,7 @@ Platná legislatíva teda priznáva odídencom možnosť využívať v prípade 
 
 Pri poskytovaní pomoci utečencom/odídencom v sociálnej oblasti je potrebné zohľadniť, že populácia utečencov/odídencov v meste/obci nie je homogénna. Ľudia, ktorí do daného mesta/danej obce prišli a usadili sa tu, môžu prežívať veľmi rozmanité životné situácie a mať rozličné potreby. Pre efektívne nastavenie pomoci v sociálnej oblasti je potrebné spoznať ich situáciu a zmapovať ich potreby. Obzvlášť potrebné je pamätať na zraniteľné skupiny utečencov/odídencov – deti, seniorov, ľudí so zdravotným postihnutím a pod.
 
-Zisťovanie potrieb utečencov/odídencov sa môže uskutočniť prostredníctvom dotazníka alebo rozhovorov so samotnými utečencami/odídencami, alebo tiež s organizáciami, ktoré im poskytujú služby a pomoc <strong style="background-color:red;color:white">(pozri viac v sekcii Poznanie situácie - PREKLIK)</strong>.
+Zisťovanie potrieb utečencov/odídencov sa môže uskutočniť prostredníctvom dotazníka alebo rozhovorov so samotnými utečencami/odídencami, alebo tiež s organizáciami, ktoré im poskytujú služby a pomoc (pozri viac v sekcii [Poznanie situácie](/poznanie-situacie)).
 
 ### Ďalšie úlohy samosprávy v sociálnej oblasti
 
@@ -76,13 +76,13 @@ Pre nastavenie poskytovania pomoci a podpory v sociálnej oblasti utečencom/od�
 
 V sociálnej oblasti je potrebná spolupráca a komunikácia rôznych aktérov na lokálnej úrovni. Pre tento účel by bolo potrebné vytvoriť platformu pre ich pravidelné schôdze a komunikáciu, aby sa zabezpečila výmena informácií a koordinácia aktivít.
 
-Keďže utečenci/odídenci sú špecifickou skupinou, bolo by tiež potrebné zistiť, do akej miery sú existujúci poskytovatelia pripravení poskytovať pomoc v sociálnej oblasti utečencom/odídencom, a to čo sa týka nielen ich kapacity, ale aj poznania situácie cieľovej skupiny, komunikácie s nimi a podobne (<strong style="background-color:red;color:white">pozri viac v sekcii Odborné vzdelávanie – budovanie kapacít - PREKLIK)</strong>.
+Keďže utečenci/odídenci sú špecifickou skupinou, bolo by tiež potrebné zistiť, do akej miery sú existujúci poskytovatelia pripravení poskytovať pomoc v sociálnej oblasti utečencom/odídencom, a to čo sa týka nielen ich kapacity, ale aj poznania situácie cieľovej skupiny, komunikácie s nimi a podobne (pozri viac v sekcii [Odborné vzdelávanie](/odborne-vzdelavanie)).
 
 #### Poskytovanie sociálneho poradenstva
 
 Na lokálnej úrovni je potrebné posilniť poskytovanie sociálneho poradenstva utečencom/odídencom a vzdelávať pracovníkov tak, aby vedeli sociálne poradenstvo poskytovať aj tejto cieľovej skupine, ktorej situácia môže byť v porovnaní s domácou populáciou špecifická.
 
-Základné a špecializované sociálne poradenstvo je podľa zákona o sociálnych službách odbornou činnosťou. Sociálne poradenstvo je zamerané na pomoc fyzickej osobe v nepriaznivej sociálnej situácii. V rámci sociálneho poradenstva sa zisťujú okolnosti nepriaznivej situácie, v ktorej sa človek a jeho rodina ocitli, a následne sú im navrhnuté možnosti riešenia a formy pomoci. Pre navrhnutie konkrétnych foriem pomoci a podpory je, podobne ako v iných oblastiach, potrebné, aby boli zmapované činnosti rôznych subjektov na lokálnej úrovni a nadviazaná komunikácia a spolupráca medzi nimi. 
+Základné a špecializované sociálne poradenstvo je podľa zákona o sociálnych službách odbornou činnosťou. Sociálne poradenstvo je zamerané na pomoc fyzickej osobe v nepriaznivej sociálnej situácii. V rámci sociálneho poradenstva sa zisťujú okolnosti nepriaznivej situácie, v ktorej sa človek a jeho rodina ocitli, a následne sú im navrhnuté možnosti riešenia a formy pomoci. Pre navrhnutie konkrétnych foriem pomoci a podpory je, podobne ako v iných oblastiach, potrebné, aby boli zmapované činnosti rôznych subjektov na lokálnej úrovni a nadviazaná komunikácia a spolupráca medzi nimi.
 
 #### Sociálnoprávna ochrana
 

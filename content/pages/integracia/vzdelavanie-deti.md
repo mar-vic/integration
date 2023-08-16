@@ -43,7 +43,7 @@ Zároveň deti prichádzajúce do škôl môžu čeliť rôznym materiálnym vý
 
 ### Poskytovanie informácií
 
-V tejto fáze je zároveň dôležité poskytovať kvalitné informácie rodičom detí o všetkých aspektoch ich zaraďovania do škôl, o ich právach a povinnostiach v súvislosti so zaradením do škôl, dokumentoch, ktoré musia predložiť, a ďalších témach súvisiacich so vzdelávaním <strong style="background-color:red;color:white">(pozri viac v sekcii Poskytovanie informácií - PREKLIK)</strong>.
+V tejto fáze je zároveň dôležité poskytovať kvalitné informácie rodičom detí o všetkých aspektoch ich zaraďovania do škôl, o ich právach a povinnostiach v súvislosti so zaradením do škôl, dokumentoch, ktoré musia predložiť, a ďalších témach súvisiacich so vzdelávaním (pozri viac v sekcii [Poskytovanie informácií](/komunikacia/komunikacia-odídenci/)).
 
 ## Integračná fáza
 

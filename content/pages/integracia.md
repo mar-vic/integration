@@ -6,9 +6,9 @@ ShowToc: True
 ShowOnHomepage: True
 ShowPageHierarchy: True
 
-Integrácia je **obojstranný proces**, v ktorom sa navzájom spoznávajú a ovplyvňujú komunity cudzincov/utečencov/odídencov a prijímajúca spoločnosť. **Keď hovoríme o integrácii, máme na mysli vytváranie integrovanej, teda súdržnej spoločnosti**.
+Integrácia je <span class="highlight">obojstranný proces</span>, v ktorom sa navzájom spoznávajú a ovplyvňujú komunity cudzincov/utečencov/odídencov a prijímajúca spoločnosť. <span class="highlight">Keď hovoríme o integrácii, máme na mysli vytváranie integrovanej, teda súdržnej spoločnosti</span>.
 
-**V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postavení**. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala **pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia**. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.
+<span class="highlight">V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postaven</span>. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala <span class="highlight">pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia</span>. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.
 
 To, že ide o proces, by mohlo zvádzať k predstave, že má začiatok a koniec, že cudzinec či utečenec sa začína integrovať v deň, keď vstúpil na územie Slovenska, a jedného dňa o ňom bude možné povedať, že je plne integrovaný.
 
@@ -32,9 +32,9 @@ Cudzinci/utečenci/odídenci sa usádzajú v konkrétnych mestách či obciach, 
 
 Zároveň sa potrebujú zorientovať v tom, ako život v novej krajine, novom meste funguje. Pre utečencov/odídencov to môže byť omnoho náročnejšie než pre cudzincov, ktorí prichádzajú dobrovoľne. Utečenci/odídenci sa v danom meste často ocitnú bez toho, aby si ho sami vybrali či mali o ňom vopred nejaké informácie. V prípade odídencov z Ukrajiny sa často stávalo, že prichádzali do mesta, v ktorom boli práve voľné ubytovacie kapacity. O svojom novom bydlisku nič nevedeli a museli svoj život začínať úplne nanovo. V tejto náročnej situácii sa zároveň potrebovali zorientovať vo svojich právach a povinnostiach.
 
-Práve preto má **v integrácii nezastupiteľnú úlohu samospráva** – je každodennému životu ľudí najbližšie a má k dispozícii najlepšie nástroje, tzv. praktické politiky, na to, aby vytvárala priestor na spokojný život pre všetkých. A o tom integrácia je – aby sa v meste všetci, ktorí v ňom žijú, cítili ako doma. 
+Práve preto má <span class="highlight">v integrácii nezastupiteľnú úlohu samospráva</span> – je každodennému životu ľudí najbližšie a má k dispozícii najlepšie nástroje, tzv. praktické politiky, na to, aby vytvárala priestor na spokojný život pre všetkých. A o tom integrácia je – aby sa v meste všetci, ktorí v ňom žijú, cítili ako doma. 
 
-Je dôležité, aby sa **samosprávy aktívne snažili o zabezpečenie rovného prístupu k službám a aktivitám aj pre cudzincov/utečencov/odídencov**. Môže ísť napríklad o sociálne služby, vzdelávanie v materských a základných školách, kultúrne a športové podujatia, komunitné aktivity a iné. 
+Je dôležité, aby sa <span class="highlight">samosprávy aktívne snažili o zabezpečenie rovného prístupu k službám a aktivitám aj pre cudzincov/utečencov/odídencov</span>. Môže ísť napríklad o sociálne služby, vzdelávanie v materských a základných školách, kultúrne a športové podujatia, komunitné aktivity a iné. 
 
 Rovný prístup však neznamená len to, že nikomu nebránime, aby sa aktivity zúčastnil či aby o službu žiadal. Rôzne skupiny obyvateľstva totiž čelia rôznym bariéram v prístupe k jednotlivým aktivitám a službám. Cudzinci/utečenci/odídenci napríklad často vôbec nevedia, že daná služba existuje, že majú na ňu nárok a že ju poskytuje samospráva, pretože v ich krajine to funguje úplne inak. Taktiež nemusia rozumieť informáciám, ktoré sú často dostupné len v slovenskom jazyku, prípadne sú naformulované veľmi odborne. A v konečnom dôsledku pre nich môže byť nedostupná aj samotná služba, pretože počas jej poskytovania nie je dostupné tlmočenie.
 

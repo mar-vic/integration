@@ -17,7 +17,7 @@ V prvých dňoch je dôležité nastavovať efektívny systém získavania infor
 V ďalších fázach je na efektívne nastavovanie podporných služieb, komunitných aktivít a celkovej podpory pri začleňovaní odídencov (alebo akýchkoľvek cudzincov) veľmi dôležité, aby boli tieto podporné nástroje „šité na mieru“ a potreby samotných ľudí. 
 
 PZber dát a mapovanie potrieb je nevyhnutné realizovať z viacerých dôvodov:
-reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne možnosti, skúsenosti rôznych aktérov, ale predovšetkým **špecifické potreby** ľudí prichádzajúcich do mesta. Lokálny kontext tiež zohráva dôležitú rolu, pretože jednotlivé mestá majú rôzne možnosti poskytovania pomoci a zároveň aj situácia samotných ľudí môže byť lokálne špecifická. 
+reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne možnosti, skúsenosti rôznych aktérov, ale predovšetkým <span class="highlight">špecifické potreby</span> ľudí prichádzajúcich do mesta. Lokálny kontext tiež zohráva dôležitú rolu, pretože jednotlivé mestá majú rôzne možnosti poskytovania pomoci a zároveň aj situácia samotných ľudí môže byť lokálne špecifická. 
 
 <h2 data-toc-text="Dôvody mapovania potrieb">Zber dát a mapovanie potrieb je nevyhnutné realizovať z viacerých dôvodov</h2>
 
@@ -28,10 +28,10 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
 
 <h2 data-toc-text="Princípy mapovania potrieb">Pri mapovaní potrieb je dôležité myslieť na niekoľko základných princípov</h2>
 
-1. Malo by byť **pravidelné a dlhodobé**.
-2. Malo by byť **komplexné** – teda sledovať všetky oblasti potrebnej pomoci a podpory (oblasť bývania, poskytovania sociálnych služieb, zdravotnej starostlivosti, možností zamestnania, rekvalifikácie, vzdelávania detí až po poskytovanie komunitných aktivít, podpory kultúrnej integrácie a politickej participácie).
-3. Malo by byť tvorené a realizované s **priamym zapojením ľudí zo skupín**, ktorým mesto poskytuje pomoc a podporu.
-4. Malo by byť **inkluzívne** – to znamená, že by mali byť brané do úvahy špecifické potreby rôznych, aj zraniteľných skupín obyvateľstva.
+1. Malo by byť <strong class="highlight">pravidelné a dlhodobé</strong>.
+2. Malo by byť <strong class="highlight">komplexné</strong> – teda sledovať všetky oblasti potrebnej pomoci a podpory (oblasť bývania, poskytovania sociálnych služieb, zdravotnej starostlivosti, možností zamestnania, rekvalifikácie, vzdelávania detí až po poskytovanie komunitných aktivít, podpory kultúrnej integrácie a politickej participácie).
+3. Malo by byť tvorené a realizované s <strong class="highlight">priamym zapojením ľudí zo skupín</strong>, ktorým mesto poskytuje pomoc a podporu.
+4. Malo by byť <strong class="highlight">inkluzívne</strong> – to znamená, že by mali byť brané do úvahy špecifické potreby rôznych, aj zraniteľných skupín obyvateľstva.
 
 <h2 data-toc-text="Zraniteľné skupiny">Kto sú zraniteľné skupiny a prečo na ne nezabúdať?</h2>
 
@@ -64,7 +64,7 @@ Tieto informácie nie je nevyhnutné získavať od samotných ľudí, ktorí pri
 
 #### Dotazníkové zisťovanie potrieb a situácie
 
-Mesto môže pracovať nielen s existujúcimi štatistikami, ale aj proaktívne pristupovať k mapovaniu potrieb tým, že bude **pravidelne zbierať dáta dotazníkovou metódou**, pričom identifikuje oblasti, témy, ktoré v danej situácii potrebuje vedieť vyhodnotiť, a distribuuje dotazníky k cieľovej skupine s cieľom identifikovať oblasti, kde je potrebné začať realizovať aktivity, meniť súčasné aktivity alebo venovať sa špecifickej skupine. Dotazníková metóda umožňuje zároveň skúmať spokojnosť s už realizovanými podpornými službami.
+Mesto môže pracovať nielen s existujúcimi štatistikami, ale aj proaktívne pristupovať k mapovaniu potrieb tým, že bude <span class="highlight">pravidelne zbierať dáta dotazníkovou metódou</span>, pričom identifikuje oblasti, témy, ktoré v danej situácii potrebuje vedieť vyhodnotiť, a distribuuje dotazníky k cieľovej skupine s cieľom identifikovať oblasti, kde je potrebné začať realizovať aktivity, meniť súčasné aktivity alebo venovať sa špecifickej skupine. Dotazníková metóda umožňuje zároveň skúmať spokojnosť s už realizovanými podpornými službami.
 
 Dotazníky možno distribuovať:
 
@@ -75,17 +75,23 @@ Dotazníky možno distribuovať:
 
 ### Kvalitatívne metódy
 
-<dl>
+<dl class="mt-4">
 
-<dt>Individuálne hĺbkové rozhovory</dt>
+<div class="description mb-4 lh-sm p-4">
+<dt class="fs-4 mb-2">Individuálne hĺbkové rozhovory</dt>
 <dd>táto metóda býva pomerne časovo náročná, vyžaduje zároveň dobrú jazykovú výbavu, teda realizáciu rozhovorov v jazyku, ktorému respondenti rozumejú, expertné zaškolenie výskumníkov (v tom, ako správne viesť rozhovory a ako ich analyzovať). Na druhej strane však pomáha vytvárať pocity dôvery s (budúcimi) klientmi a veľmi podrobne spoznať rôzne situácie, ktorým títo ľudia v každodennosti čelia.</dd>
+</div>
 
-<dt>Fokusové skupiny</dt>
+<div class="description mb-4 lh-sm p-4">
+<dt class="fs-4 mb-2">Fokusové skupiny</dt>
 <dd>táto metóda je časovo úspornejšia a zároveň vďaka skupinovej dynamike umožňuje identifikovať témy a potreby, ktoré by sa nevynorili pri individuálnych rozhovoroch. Tiež vyžaduje, aby boli tieto fokusové skupiny realizované v jazyku, ktorému všetci respondenti rozumejú. Fokusové skupiny sa môžu realizovať pravidelne na rôzne témy a umožňujú tak jednak identifikovať základné potreby, ale aj konzultovať už realizované aktivity a zhodnotiť ich efektivitu.
 </dd>
+</div>
 
-<dt>Pozorovania</dt>
+<div class="description mb-4 lh-sm p-4">
+<dt class="fs-4 mb-2" >Pozorovania</dt>
 <dd>túto metódu je možné využiť napríklad v prípade menších detí, s ktorými nie je možné realizovať rozhovory alebo fokusové skupiny. Na základe pozorovania ich správania v prostrediach, v ktorých sa pohybujú (v školách, komunitných a nízkoprahových centrách), možno identifikovať, či sú realizované podporné služby efektívne alebo či nevznikajú ďalšie špecifické potreby, na ktoré by bolo potrebné reagovať.</dd>
+</div>
 
 </dl>
 

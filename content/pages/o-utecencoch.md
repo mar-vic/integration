@@ -12,7 +12,7 @@ Vo februári 2022 aj na Slovensko začali prichádzať veľké počty ľudí, kt
 
 ## Základné pojmy
 
-Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem **osoba s udelenou medzinárodnou ochranou**, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií <strong style="color:yellow;background-color:red">(definície významov, v ktorých sa nasledujúce termíny používajú v medzinárodnom kontexte sa nachádzajú napríklad na stránkach [Ligy za ľudské práva](https://www.hrl.sk/sk/info-o-migracii/azyl) alebo [Utečeneckej agentúry Organizácie Spojených národov](https://help.unhcr.org/slovakia/sk/information-for-people-coming-from-ukraine/temporary-protection/))</strong>:
+Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem <strong class="highlight"> osoba s udelenou medzinárodnou ochranov</strong>, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií <strong style="color:yellow;background-color:red">(definície významov, v ktorých sa nasledujúce termíny používajú v medzinárodnom kontexte sa nachádzajú napríklad na stránkach [Ligy za ľudské práva](https://www.hrl.sk/sk/info-o-migracii/azyl) alebo [Utečeneckej agentúry Organizácie Spojených národov](https://help.unhcr.org/slovakia/sk/information-for-people-coming-from-ukraine/temporary-protection/))</strong>:
 
 
 {% from 'description-list.html' import descriptionList %}
@@ -64,7 +64,7 @@ Druhým špecifikom je to, že cudzinci často čelia jazykovej bariére, nemaj�
 
 ### Právny status
 
-Utečenci a odídenci sú jednotlivci, ktorí opustili svoju domovskú krajinu z dôvodu prenasledovania, vojny alebo násilia a ktorým hostiteľská krajina poskytla ochranu. V prípade odídencov z Ukrajiny ide o poskytnutie tzv. **dočasného útočiska**, ktoré má presné právne rámce. Tie sa odlišujú od iných typov pobytov a je potrebné na ne prihliadať pri poskytovaní služieb a podpory.
+Utečenci a odídenci sú jednotlivci, ktorí opustili svoju domovskú krajinu z dôvodu prenasledovania, vojny alebo násilia a ktorým hostiteľská krajina poskytla ochranu. V prípade odídencov z Ukrajiny ide o poskytnutie tzv. <span class="highlight">dočasného útočiska</span>, ktoré má presné právne rámce. Tie sa odlišujú od iných typov pobytov a je potrebné na ne prihliadať pri poskytovaní služieb a podpory.
 
 ### Dôvod migrácie
 

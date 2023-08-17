@@ -36,7 +36,7 @@ Humanitárna fáza je prvou fázou v zvládaní výzvy integrácie väčšieho p
 
 ### Prechod z núdzového ubytovania do stabilnejších foriem bývania
 
-Núdzové ubytovanie je skutočne len nevyhnutným riešením na pokrytie prvých dní, po uplynutí ktorých však utečenci/odídenci musia zariadenia opustiť a presťahovať sa. Pre mnohých je to veľmi náročný proces, ktorý bez podpory zvládnu len ťažko. Je preto potrebné, aby existoval **systém prechodu utečencov/odídencov do stabilnejších foriem bývania**. Tie môžu byť aj strednodobé na istý obmedzený čas, avšak dôležité je, aby v týchto strednodobých formách bývania, ktoré sú často kolektívne, nezotrvávali príliš dlho, pretože sa z praxe ukazuje, že nevytvárajú dobrý predpoklad pre integráciu. Dôvodov je viacero:
+Núdzové ubytovanie je skutočne len nevyhnutným riešením na pokrytie prvých dní, po uplynutí ktorých však utečenci/odídenci musia zariadenia opustiť a presťahovať sa. Pre mnohých je to veľmi náročný proces, ktorý bez podpory zvládnu len ťažko. Je preto potrebné, aby existoval <span class="highlight">systém prechodu utečencov/odídencov do stabilnejších foriem bývania</span>. Tie môžu byť aj strednodobé na istý obmedzený čas, avšak dôležité je, aby v týchto strednodobých formách bývania, ktoré sú často kolektívne, nezotrvávali príliš dlho, pretože sa z praxe ukazuje, že nevytvárajú dobrý predpoklad pre integráciu. Dôvodov je viacero:
 
 - v takýchto typoch ubytovania sa často koncentruje len skupina utečencov/odídencov bez prepojenia na miestne obyvateľstvo a vedie teda k segregácii a izolácii,
 - ubytovanie napríklad v ubytovni je často vnímané ako dočasné, čo sa premieta aj do vlastného vnímania pobytu na Slovensku zo strany utečencov/odídencov, a teda do zníženej motivácie začleniť sa do života v novej krajine,
@@ -50,7 +50,7 @@ Vo výhľade musí byť cieľ dlhodobej stabilizácie bývania.
 
 ### Dlhodobé formy bývania
 
-Je preto dôležité, aby v lokalite, a najmä v prostredí strednodobých kolektívnych foriem ubytovania, fungovali **terénni sociálni pracovníci**, ktorí by dokázali utečencom/odídencom *pomáhať s prechodom do stabilných foriem bývania* – teda identifikovať ich potreby v oblasti bývania, dostupné možnosti financovania prenájmu (príjem, možné príspevky a pod.), identifikovať vhodné prenájmy, pomôcť s kontaktovaním prenajímateľov a sprostredkovať dohodu. 
+Je preto dôležité, aby v lokalite, a najmä v prostredí strednodobých kolektívnych foriem ubytovania, fungovali <span class="highlight">terénni sociálni pracovníci</span>, ktorí by dokázali utečencom/odídencom *pomáhať s prechodom do stabilných foriem bývania* – teda identifikovať ich potreby v oblasti bývania, dostupné možnosti financovania prenájmu (príjem, možné príspevky a pod.), identifikovať vhodné prenájmy, pomôcť s kontaktovaním prenajímateľov a sprostredkovať dohodu. 
 
 Terénni sociálni pracovníci nemusia byť zamestnancami samosprávy, túto úlohu môže samospráva delegovať na iné existujúce organizácie, ktoré môžu mať v tejto oblasti väčšie skúsenosti a zároveň majú potenciálne možnosti získať aj iné (napr. zahraničné, nadačné, súkromné) zdroje financovania na pokrytie tejto služby. Je však dôležité, aby sa na týchto procesoch samospráva podieľala v koordinačnej úlohe. Význam terénnych sociálnych pracovníkov, ktorí by pôsobili (aj) v kolektívnych typoch ubytovania, spočíva tiež v tom, že by mali byť schopní identifikovať rôzne nežiaduce javy, ktorých obeťami sa utečenci/odídenci môžu stať – napr. obchodovanie s ľuďmi, pracovné vykorisťovanie a pod. Terénni sociálni pracovníci by tak mali absolvovať aj odborné vzdelávanie, ako postupovať v prípade identifikácie takýchto prípadov.
 
@@ -58,7 +58,7 @@ V tejto oblasti je možné nadviazať aj spoluprácu s väčšími zamestnávate
 
 ### Prevencia segregácie
 
-Pri vytváraní strednodobých a dlhodobých opatrení na podporu bývania ľudí na úteku je potrebné **dbať na to, aby nedochádzalo k segregácii**. Nemalo by teda ísť o lokality, ktoré sú akýmkoľvek spôsobom oddelené od zvyšku mesta/obce (napr. bloky budov na okraji obce, ktoré sú oddelené nejakou fyzickou bariérou a pod.), aby nevznikali izolované štvrte bez možností integrácie. To by mohlo viesť k sociálnemu napätiu.
+Pri vytváraní strednodobých a dlhodobých opatrení na podporu bývania ľudí na úteku je potrebné <span class="highlight">dbať na to, aby nedochádzalo k segregáci</span>. Nemalo by teda ísť o lokality, ktoré sú akýmkoľvek spôsobom oddelené od zvyšku mesta/obce (napr. bloky budov na okraji obce, ktoré sú oddelené nejakou fyzickou bariérou a pod.), aby nevznikali izolované štvrte bez možností integrácie. To by mohlo viesť k sociálnemu napätiu.
 
 ### Možnosti chráneného bývania
 

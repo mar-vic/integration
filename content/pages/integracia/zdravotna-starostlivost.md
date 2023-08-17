@@ -8,9 +8,9 @@ ShowPageHierarchy: True
 
 Pre ľudí utekajúcich pred vojnou je rýchla a dostupná zdravotná a psychologická pomoc jednou z najdôležitejších potrieb. Následná zdravotná a psychologická starostlivosť môže pomôcť utečencom/odídencom v zlepšení kvality ich života. Dostupná zdravotná starostlivosť pre utečencov/odídencov alebo cudzincov môže byť v niektorých oblastiach Slovenska v dôsledku celkového preťaženia systému a chýbajúcich kapacít, ale napríklad aj jazykovej bariéry, nedostačujúca.
 
-Žiadatelia o azyl a odídenci majú nárok na **neodkladnú a potrebnú indikovanú zdravotnú starostlivosť**. Potrebná zdravotná starostlivosť zahŕňa aj konzultácie u všeobecného lekára, očkovanie, časť starostlivosti pri chronických chorobách. Nepatrí sem plánovaná zdravotná starostlivosť (napr. plánovaná výmena bedrového kĺbu) ani kúpeľná starostlivosť, ale napríklad ani preventívne gynekologické prehliadky.
+Žiadatelia o azyl a odídenci majú nárok na <span class="highlight">neodkladnú a potrebnú indikovanú zdravotnú starostlivosť</span>. Potrebná zdravotná starostlivosť zahŕňa aj konzultácie u všeobecného lekára, očkovanie, časť starostlivosti pri chronických chorobách. Nepatrí sem plánovaná zdravotná starostlivosť (napr. plánovaná výmena bedrového kĺbu) ani kúpeľná starostlivosť, ale napríklad ani preventívne gynekologické prehliadky.
 
-Pokiaľ sa odídenec na Slovensku zamestná za mzdu vyššiu, ako je minimálna, je povinný prihlásiť sa do systému verejného zdravotného poistenia; nárok na poistenie vzniká aj jeho nezaopatreným deťom. Nárok verejného zdravotného poistenia zahŕňa už **plný rozsah starostlivosti** vrátane plánovanej.
+Pokiaľ sa odídenec na Slovensku zamestná za mzdu vyššiu, ako je minimálna, je povinný prihlásiť sa do systému verejného zdravotného poistenia; nárok na poistenie vzniká aj jeho nezaopatreným deťom. Nárok verejného zdravotného poistenia zahŕňa už <span class="highlight">plný rozsah starostlivosti</span> vrátane plánovanej.
 
 Rozsah zdravotnej starostlivosti pre odídencov určuje ministerstvo zdravotníctva a môže sa časom meniť.
 
@@ -52,15 +52,15 @@ Aj keď krízovú intervenciu uvádzame len v tejto fáze, utečenci/odídenci j
 
 ## Integračná fáza
 
-V tejto fáze je dôležité, aby po neodkladnej zdravotnej starostlivosti, krízovej intervencii a psychologickej prvej pomoci opatrenia prešli do pravidelnej/dlhodobej zdravotnej a psychologickej starostlivosti. Je dôležité **vytvárať adresár odborníkov**, ktorí vedia prijať utečencov/odídencov, **mať nakontaktovaných ukrajinsky aj inak hovoriacich odborníkov či tlmočníkov**, ktorí vedia zabezpečiť sprievod k lekárovi alebo inému odborníkovi.
+V tejto fáze je dôležité, aby po neodkladnej zdravotnej starostlivosti, krízovej intervencii a psychologickej prvej pomoci opatrenia prešli do pravidelnej/dlhodobej zdravotnej a psychologickej starostlivosti. Je dôležité <span class="highlight">vytvárať adresár odborníkov</span>, ktorí vedia prijať utečencov/odídencov, <span class="highlight">mať nakontaktovaných ukrajinsky aj inak hovoriacich odborníkov či tlmočníkov</span>, ktorí vedia zabezpečiť sprievod k lekárovi alebo inému odborníkovi.
 
-**Samospráva** v tejto fáze môže **aktívne komunikovať informácie smerom k utečencom/odídencom**, zisťovať ich potreby v oblasti zdravia a sprostredkovať kontakty na lekárov a psychológov/krízové linky a pod., ako aj poskytovať informácie o tom, na čo majú utečenci/odídenci v tejto oblasti nárok a ako sa tento nárok mení napríklad zamestnaním sa. Medzi dôležité patria aj informácie o systéme doplatkov za lieky (o spôsoboch informovania pozri viac v sekcii [Poskytovanie informácií](/komunikacia/komunikacia-odídenci/)).
+<span class="highlight">Samospráva</span> v tejto fáze môže <span class="highlight">aktívne komunikovať informácie smerom k utečencom/odídencom</span>, zisťovať ich potreby v oblasti zdravia a sprostredkovať kontakty na lekárov a psychológov/krízové linky a pod., ako aj poskytovať informácie o tom, na čo majú utečenci/odídenci v tejto oblasti nárok a ako sa tento nárok mení napríklad zamestnaním sa. Medzi dôležité patria aj informácie o systéme doplatkov za lieky (o spôsoboch informovania pozri viac v sekcii [Poskytovanie informácií](/komunikacia/komunikacia-odídenci/)).
 
 V niektorých prípadoch sa môže stať, že lekári nie sú ochotní prijímať pacientov spomedzi ľudí na úteku z rôznych dôvodov. Jedným z dôvodov môže byť nedostatočná informovanosť lekárov o tom, čo je pre pacientov s rozličnými typmi pobytov hradené a ako jednotlivé úkony vykazovať. V tomto prípade môže samospráva v spolupráci s VÚC poskytovať lekárom informácie alebo zisťovať iné dôvody neprijímania pacientov. Ďalším dôvodom odmietania ľudí na úteku ako pacientov môže byť tiež jazyková bariéra, ktorá sa dá čiastočne zmierniť napríklad poskytnutím tlmočníka a službou sprevádzania k lekárom, a to aj v spolupráci s mimovládnymi organizáciami, ktoré v meste možno pôsobia a dokážu takúto službu zabezpečiť (vrátane tlmočenia na diaľku). Miestna samospráva môže tieto aktivity iniciovať a koordinovať spoluprácu.
 
 ## Fáza spolužitia
 
-V tejto fáze by mala mať **samospráva vytvorenú dobrú databázu kontaktov, ale aj dobrú spoluprácu s jednotlivými ambulanciami či službami poskytujúcimi psychologickú pomoc**. Tu je dôležité opätovné mapovanie situácie, pravidelná komunikácia s lekármi/psychológmi, ale aj utečencami/odídencami. Samospráva môže mať prehľad o jednotlivých voľných kapacitách a môže robiť napríklad aj dôležitú osvetu v oblasti fyzického a duševného zdravia pre utečencov/odídencov.
+V tejto fáze by mala mať <span class="highlight">samospráva vytvorenú dobrú databázu kontaktov, ale aj dobrú spoluprácu s jednotlivými ambulanciami či službami poskytujúcimi psychologickú pomoc</span>. Tu je dôležité opätovné mapovanie situácie, pravidelná komunikácia s lekármi/psychológmi, ale aj utečencami/odídencami. Samospráva môže mať prehľad o jednotlivých voľných kapacitách a môže robiť napríklad aj dôležitú osvetu v oblasti fyzického a duševného zdravia pre utečencov/odídencov.
 
 
 

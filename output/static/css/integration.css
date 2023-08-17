@@ -7,6 +7,9 @@ body {
 a { color: #3765a3; }
 a:hover { color: #003c63; }
 
+h1, h2, h3, h4, h5, h6 {
+}
+
 /* SEARCH INTERFACE (STORK) */
 
 #sitesearch {
@@ -84,8 +87,10 @@ a:hover { color: #003c63; }
 }
 
 #main-header {
-    background-color: black;
+    background-color: #3765a3;
+    /* background-color: #003c63; */
     color: white !important;
+    /* border-bottom: 2px solid black; */
 }
 
 #main-header a {

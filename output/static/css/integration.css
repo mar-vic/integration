@@ -172,4 +172,13 @@ a:hover { color: #003c63; }
     color: red !important;
 }
 
+/* COMPONENTS */
 
+.description {
+    border: #3765a3 solid 2px;
+    box-shadow: 16px 16px 0 0 #3765a3;
+}
+
+.description dt {
+    color: #003c63;
+}

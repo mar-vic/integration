@@ -1,8 +1,10 @@
 {% macro descriptionList(descriptions=[]) -%}
-<dl>
+<dl class="mt-4">
   {% for term, detail in descriptions %}
-  <dt>{{ term }}</dt>
-  <dd>{{ detail }}</dd>
+  <div class="description mb-5 lh-sm p-4">
+    <dt class="fs-4 mb-2">{{ term }}</dt>
+    <dd>{{ detail }}</dd>
+  </div>
   {% endfor %}
 </dl>
 {%- endmacro %}

@@ -12,7 +12,7 @@ Vo februári 2022 aj na Slovensko začali prichádzať veľké počty ľudí, kt
 
 ## Základné pojmy
 
-Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem **osoba s udelenou medzinárodnou ochranou**, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií:
+Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem **osoba s udelenou medzinárodnou ochranou**, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií <strong style="color:yellow;background-color:red">(definície významov, v ktorých sa nasledujúce termíny používajú v medzinárodnom kontexte sa nachádzajú napríklad na stránkach [Ligy za ľudské práva](https://www.hrl.sk/sk/info-o-migracii/azyl) alebo [Utečeneckej agentúry Organizácie Spojených národov](https://help.unhcr.org/slovakia/sk/information-for-people-coming-from-ukraine/temporary-protection/))</strong>:
 
 
 {% from 'description-list.html' import descriptionList %}
@@ -20,32 +20,25 @@ Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legisl
 
     (
     "Žiadateľ o azyl",
-    "<blockquote>
+    "
     je osoba, ktorá na Slovensku požiadala o udelenie azylu, pretože tvrdí, že uteká pred prenasledovaním alebo vážnym bezprávím v krajine svojho pôvodu. Konanie o udelení či neudelení azylu je pomerne komplikované a zahŕňa rôzne úrovne preverovania dôvodov, ktoré žiadateľ uvádza ako príčinu svojho núteného odchodu z rodnej krajiny. Žiadatelia o azyl na rozhodnutie o ich žiadosti väčšinou čakajú v tzv. pobytových táboroch (Opatovská Nová Ves, Rohovce).
-    </blockquote>
-    <cite><a href='https://www.hrl.sk/sk/info-o-migracii/azyl'>Liga za ľudské práva</a></cite>
     "
     ),
 
     ("<span id='azylant'>Azylant</span>",
-    "<blockquote>
+    "
     je osoba, ktorej bol udelený azyl. Ten možno udeliť človeku, ktorý má vo svojej krajine opodstatnené obavy z prenasledovania z rasových či národnostných dôvodov, ako aj z dôvodov zastávania určitých politických názorov alebo z dôvodu príslušnosti k určitej sociálnej skupine. Azylant získava <a href='https://www.kapacity.sk/druhy-pobytov-a-viz/'>trvalý pobyt</a> a po štyroch rokoch pobytu na Slovensku môže žiadať o občianstvo SR. Vďaka svojmu trvalému pobytu sa stáva  <a href='https://www.zakonypreludi.sk/zz/1990-369'>obyvateľom mesta/obce</a>, kde žije. Migračný úrad môže azylantom poskytnúť istú mieru integračnej podpory (podľa <a href='https://www.zakonypreludi.sk/zz/2002-480'>§28 zákona o azyle</a>) – finančnú podporu (buď jednorazovú, alebo opakovanú po dobu 6 mesiacov), kurz základov slovenského jazyka, psychologické alebo iné poradenstvo, kurz kultúrnej orientácie a/alebo ubytovanie v integračnom stredisku.
-    </blockquote>
-    <cite><a href='https://www.hrl.sk/sk/info-o-migracii/azyl'>Liga za ľudské práva</a></cite>
     "),
 
     ("Osoba s doplnkovou ochranou",
-    "<blockquote>
+    "
     Ak žiadateľ nespĺňa podmienky na udelenie azylu, môže jej byť udelená doplnková ochrana, teda prechodný pobyt na 2 roky na území SR s možnosťou predlžovania. Doplnková ochrana môže byť udelená tým žiadateľom o azyl, u ktorých sú vážne dôvody domnievať sa, že by im pri návrate do ich rodnej krajiny reálne hrozilo vážne bezprávie. Osobám s doplnkovou ochranou môže Migračný úrad poskytnúť rovnakú integračnú podporu ako <a href='#azylant'>azylantom</a>.
-    </blockquote>
-    <cite><a href='https://www.hrl.sk/sk/info-o-migracii/azyl'>Liga za ľudské práva</a></cite>
-    "),
+    "
+    ),
 
     ("Odídenec",
-    "<blockquote>
+    "
     je osoba, ktorej bolo udelené tzv. dočasné útočisko, teda tzv. tolerovaný pobyt. Poskytovanie tejto formy medzinárodnej ochrany bolo do <a href='https://www.zakonypreludi.sk/zz/2002-480'>zákona o azyle</a> zavedené 26. februára 2022 v reakcii na vypuknutie vojny na Ukrajine a príchod veľkých počtov ľudí z Ukrajiny na naše územie. Pre ľudí utekajúcich pred vojnou z Ukrajiny je to v súčasnosti najjednoduchší spôsob získania legálneho pobytu na Slovensku a nevyžaduje si zdĺhavé procedúry. Stačí si o dočasné útočisko požiadať na oddelení cudzineckej polície. Tento štatút dáva odídencom právo na vstup na trh práce, ako aj prístup k základnej zdravotnej starostlivosti. Ku dňu 17. mája 2023 bol <a href='https://www.minv.sk/?docasne-utocisko'>štatút dočasného útočiska udelený 101 436 osobám</a>.
-    </blockquote>
-    <cite><a href=https://help.unhcr.org/slovakia/sk/temporary-protection/'>The UN Refugee Agency</a></cite>
     ")
 ]) }}
 

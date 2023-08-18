@@ -18,7 +18,7 @@ Všetky vyššie spomínané zdroje uvádzajú dané informácie aj v ukrajinči
 
 Okrem týchto informačných zdrojov však vzniklo množstvo ďalších, ktoré vytvorili rôzni aktéri, či už verejní, alebo súkromní, napr. [Profesia](https://www.profesia.sk) či jednotlivé ministerstvá.
 
-Ako však ukazuje výskum <strong style="background-color:red;color:white">(LINK KEĎ BUDE DOSTUPNÝ)</strong>, ktorý pre organizáciu Mareena realizovalo Centrum pre výskum etnicity a kultúry na jeseň 2022, pre mnohých ľudí z Ukrajiny sú najdôležitejším zdrojom informácií sociálne siete a komunity, kde však existuje riziko výmeny nepresných a neaktuálnych informácií, prípadne zneužívanie nevedomosti a neprístupnosti informácií.
+Ako však ukazuje [výskum](/static/publications/ludia_ukrajiny_svk_mestach(cvek_2022).pdf), ktorý pre organizáciu Mareena realizovalo Centrum pre výskum etnicity a kultúry na jeseň 2022, pre mnohých ľudí z Ukrajiny sú najdôležitejším zdrojom informácií sociálne siete a komunity, kde však existuje riziko výmeny nepresných a neaktuálnych informácií, prípadne zneužívanie nevedomosti a neprístupnosti informácií.
 
 Preto je dôležité posilňovať poskytovanie dostupných, hodnoverných a zrozumiteľných informácií ľuďom na úteku, ktoré sú zároveň prispôsobené ich aktuálnym potrebám podľa toho, či na Slovensko práve prišli alebo sú tu dlhodobejšie. Na tento účel možno využívať moderné technológie (sociálne siete, aplikácie) a už existujúce kapacity verejnej správy, mimovládnych organizácií a ostatných aktérov.
 

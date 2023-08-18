@@ -37,7 +37,7 @@ V tejto súvislosti je však nutné zdôrazniť, že je dôležité už v tejto 
 
 ### Materiálna pomoc a podpora
 
-Mo-integracienohé mestá a aktéri poskytujúci pomoc sa v prvých týždňoch po príchode utečencov/odídencov stretávajú s množstvom materiálnych a humanitárnych problémov, ktorým títo ľudia čelia. Školy môžu slúžiť ako dočasné ubytovacie kapacity alebo centrá humanitárnej pomoci v krízovom období. Tu je opäť dôležitá dobrá spolupráca a koordinácia s vedením mesta, aby poskytovanie tejto pomoci nebolo pre vedenie škôl príliš zahlcujúce a neobmedzovalo základný chod škôl. To by mohlo zvyšovať napätie medzi obyvateľmi a znižovať ochotu poskytovať podporu utečencom/odídencom.
+Mnohé mestá a aktéri poskytujúci pomoc sa v prvých týždňoch po príchode utečencov/odídencov stretávajú s množstvom materiálnych a humanitárnych problémov, ktorým títo ľudia čelia. Školy môžu slúžiť ako dočasné ubytovacie kapacity alebo centrá humanitárnej pomoci v krízovom období. Tu je opäť dôležitá dobrá spolupráca a koordinácia s vedením mesta, aby poskytovanie tejto pomoci nebolo pre vedenie škôl príliš zahlcujúce a neobmedzovalo základný chod škôl. To by mohlo zvyšovať napätie medzi obyvateľmi a znižovať ochotu poskytovať podporu utečencom/odídencom.
 
 Zároveň deti prichádzajúce do škôl môžu čeliť rôznym materiálnym výzvam – môže im chýbať oblečenie, základné školské pomôcky, ale aj „drobnosti“, ako napríklad prezuvky či školské úbory. Na všetky tieto aspekty treba brať ohľad a vytvoriť rýchly a efektívny systém pomoci deťom (zbierky, finančné prostriedky od štátu alebo sponzorov). 
 

@@ -11,6 +11,8 @@ Nájdete tu rôzne informácie týkajúce sa situácie utečencov/odídencov, ak
 
 Webstránku vytvorili expertky Centra pre výskum etnicity a kultúry. CVEK je nezávislá organizácia, ktorá vznikla v roku 2005 ako občianske združenie zamerané na témy dôvery, sociálnej súdržnosti, integrácie menšín a cudzincov. Vo svojej práci sa venujeme najmä výskumu v týchto témach, analýze verejných politík, vzdelávaniu a spolupráci so samosprávami pri vytváraní dlhodobých lokálnych stratégií.
 
+<img class="w-100 mt-3" src="/static/images/onas.png" />
+
 
 
 

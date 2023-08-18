@@ -206,3 +206,15 @@ h1, h2, h3, h4, h5, h6 {
 .highlight a {
     color: #ffffff !important;
 }
+
+@counter-style circled-alpha {
+    system: fixed;
+    symbols: Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ;
+    suffix: " ";
+}
+
+@counter-style circled-numeric {
+    system: fixed;
+    symbols: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩;
+    suffix: " ";
+}

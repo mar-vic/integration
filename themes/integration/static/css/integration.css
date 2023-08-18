@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: inherit;
     border: none;
     border-radius: 0px;
-    background-color: black;
+    background-color: #3765a3;
     color: white;
 }
 
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* FOOTER */
-#site-footer .container .row {
+#site-footer .container .row:first-of-type {
     border-top: 2px solid black;
 }
 
@@ -187,6 +187,7 @@ h1, h2, h3, h4, h5, h6 {
 .description dt {
     color: #003c63;
 }
+
 
 .highlight {
     /* display: inline; */

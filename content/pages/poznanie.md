@@ -77,19 +77,42 @@ Dotazníky možno distribuovať:
 
 <dl class="mt-4">
 
-<div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2">Individuálne hĺbkové rozhovory</dt>
+<div class="description mb-5 lh-sm p-4">
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">Individuálne hĺbkové rozhovory</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/conversation.png">
+    </div>
+</div>
 <dd>táto metóda býva pomerne časovo náročná, vyžaduje zároveň dobrú jazykovú výbavu, teda realizáciu rozhovorov v jazyku, ktorému respondenti rozumejú, expertné zaškolenie výskumníkov (v tom, ako správne viesť rozhovory a ako ich analyzovať). Na druhej strane však pomáha vytvárať pocity dôvery s (budúcimi) klientmi a veľmi podrobne spoznať rôzne situácie, ktorým títo ľudia v každodennosti čelia.</dd>
 </div>
 
-<div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2">Fokusové skupiny</dt>
+<div class="description mb-5 lh-sm p-4">
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">Fokusové skupiny</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/focus-group.png">
+    </div>
+</div>
+
 <dd>táto metóda je časovo úspornejšia a zároveň vďaka skupinovej dynamike umožňuje identifikovať témy a potreby, ktoré by sa nevynorili pri individuálnych rozhovoroch. Tiež vyžaduje, aby boli tieto fokusové skupiny realizované v jazyku, ktorému všetci respondenti rozumejú. Fokusové skupiny sa môžu realizovať pravidelne na rôzne témy a umožňujú tak jednak identifikovať základné potreby, ale aj konzultovať už realizované aktivity a zhodnotiť ich efektivitu.
 </dd>
 </div>
 
-<div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2" >Pozorovania</dt>
+<div class="description mb-5 lh-sm p-4">
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">Pozorovania</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/observation.png">
+    </div>
+</div>
+
 <dd>túto metódu je možné využiť napríklad v prípade menších detí, s ktorými nie je možné realizovať rozhovory alebo fokusové skupiny. Na základe pozorovania ich správania v prostrediach, v ktorých sa pohybujú (v školách, komunitných a nízkoprahových centrách), možno identifikovať, či sú realizované podporné služby efektívne alebo či nevznikajú ďalšie špecifické potreby, na ktoré by bolo potrebné reagovať.</dd>
 </div>
 

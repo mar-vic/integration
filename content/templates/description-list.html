@@ -2,7 +2,14 @@
 <dl class="mt-4">
   {% for term, detail in descriptions %}
   <div class="description mb-5 lh-sm p-4">
-    <dt class="fs-4 mb-2">= {{ term }} =</dt>
+    <div class="row mb-4">
+      <div class="col-11">
+        <dt class="fs-3 pt-2">{{ term }}</dt>
+      </div>
+      <div class="col-1">
+        <img class="w-100" src="/static/images/dictionary.png">
+      </div>
+    </div>
     <dd>{{ detail }}</dd>
   </div>
   {% endfor %}

@@ -19,7 +19,14 @@ Pri zmene prostredia všetci prechádzame viac-menej podobnými štádiami kult�
 <dl class="mt-4">
 
 <div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2">1. Prvotná „úľava“</dt>
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">1. Prvotná „úľava“</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/process.png">
+    </div>
+</div>
 <dd>
 v tomto štádiu majú ľudia veľké očakávania. V prípade utečencov/odídencov môže ísť o pocit, že sú konečne v bezpečí a nehrozí im bezprostredné ohrozenie. V tomto štádiu má väčšina ľudí pocit, že nová krajina je prijímajúca, láskavá, cítia vďačnosť za prijatie.
 </dd>
@@ -28,7 +35,14 @@ v tomto štádiu majú ľudia veľké očakávania. V prípade utečencov/odíde
 <div class="mb-3" style="text-align:center"><i class="fa-regular fa-circle-down display-4" style="color: #3765A3;"></i></div>
 
 <div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2">2. Kríza</dt>
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">2. Kríza</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/process.png">
+    </div>
+</div>
 <dd>
     môže nastať krátko po príchode alebo po niekoľkých dňoch či týždňoch pobytu. Začína sa prvými negatívnymi skúsenosťami, problémami, nepríjemnými reakciami ľudí. Skutočnosť nie je taká, ako si ju predstavovali, stretávajú sa s čoraz väčšími prekážkami. Nastáva sklamanie, frustrácia, bezmocnosť, zmätok. V tomto štádiu môžu pociťovať stratu kontroly nad situáciou, prichádza nervozita, depresia, hnev a nepriateľstvo. Ide o veľmi náročné obdobie, keď má mnoho ľudí pocit, že potrebujú ísť okamžite naspäť domov. Pri utečencoch a odídencoch to s veľkou pravdepodobnosťou nie je možné, a tak sa musia so situáciou vyrovnať. Niektorí sa však napriek nebezpečenstvu v krajine, z ktorej odišli, predsa len rozhodnú vrátiť.
 </dd>
@@ -37,7 +51,14 @@ v tomto štádiu majú ľudia veľké očakávania. V prípade utečencov/odíde
 <div class="mb-3" style="text-align:center"><i class="fa-regular fa-circle-down display-4" style="color: #3765A3;"></i></div>
 
 <div class="description mb-4 lh-sm p-4">
-<dt class="fs-4 mb-2">3. Prispôsobenie a reorientácia</dt>
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">3. Prispôsobenie a reorientácia</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/process.png">
+    </div>
+</div>
 <dd>
 riešenie kultúrneho šoku spočíva práve v tejto fáze. Ľudia sa potrebujú naučiť, ako sa adaptovať na nové prostredie. Dôležité je, aby nadobudli zručnosti na riešenie problémov, ale aj to, aby dostali podporu zvonka (napríklad od blízkych alebo inštitúcií, prípadne poradenských zariadení). Vtedy nastáva aj akceptácia novej kultúry a pozitívny postoj k nej. Nová kultúra začína dávať zmysel a budúcnosť už nevyzerá tak neriešiteľne. V tejto fáze, ak je zvládnutá dobre, sa začína vytvárať pocit prináležania v zmysle áno, chcem sem patriť a som tu vítaný. Problémy sa nekončia, ale človek ich vníma ako prirodzené a riešiteľné. Krízy sa môžu opäť objavovať, záleží na mnohých okolnostiach, či túto situáciu dokážu ľudia zvládnuť či už sami, alebo s pomocou.
 </dd>
@@ -46,7 +67,14 @@ riešenie kultúrneho šoku spočíva práve v tejto fáze. Ľudia sa potrebujú
 <div class="mb-3" style="text-align:center"><i class="fa-regular fa-circle-down display-4" style="color: #3765A3;"></i></div>
 
 <div class="description mb-5 lh-sm p-4">
-<dt class="fs-4 mb-2">4. Akulturácia</dt>
+<div class="row mb-4">
+    <div class="col-11">
+        <dt class="fs-4 pt-2">4. Akulturácia</dt>
+    </div>
+    <div class="col-1">
+        <img class="w-100" src="/static/images/process.png">
+    </div>
+</div>
 <dd>
 je posledným štádiom, v ktorom si ľudia vytvárajú mechanizmy zvládania a riešenia problémov. Stávajú sa súčasťou novej kultúry. To však neznamená úplnú zmenu identity. Človek si postupne pridáva akoby ďalšiu identitu k tej, ktorú si vytvoril pred príchodom do krajiny.
 </dd>

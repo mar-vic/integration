@@ -207,3 +207,10 @@ h1, h2, h3, h4, h5, h6 {
 .highlight a {
     color: #ffffff !important;
 }
+
+/* Rules for smaller displays */
+@media screen and (max-width: 992px){
+    #site-logo-big {
+        width: 100%;
+    }
+}

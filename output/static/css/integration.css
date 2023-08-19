@@ -8,6 +8,7 @@ a { color: #3765a3; }
 a:hover { color: #003c63; }
 
 h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
 }
 
 /* SEARCH INTERFACE (STORK) */
@@ -205,16 +206,4 @@ h1, h2, h3, h4, h5, h6 {
 
 .highlight a {
     color: #ffffff !important;
-}
-
-@counter-style circled-alpha {
-    system: fixed;
-    symbols: Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ;
-    suffix: " ";
-}
-
-@counter-style circled-numeric {
-    system: fixed;
-    symbols: ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩;
-    suffix: " ";
 }

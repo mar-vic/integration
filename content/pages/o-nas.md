@@ -5,6 +5,8 @@ Summary: Donec vitae dolor.
 ShowToc: False
 ShowPageHierarchy: False
 
+<img class="w-25 ps-4 pb-4 float-end" src="/static/images/integration-logo.jpg" />
+
 Táto webstránka je určená najmä samosprávam a ďalším aktérom, ktorí sa na lokálnej úrovni venujú téme začleňovania cudzincov, ale najmä ľudí na úteku (odídencov) do miestnych spoločenstiev. Otázka migrácie bude v budúcnosti čoraz aktuálnejšia a nasledujúce témy môžu samosprávam výrazne pomôcť túto situáciu zvládnuť nielen v súčasnosti, ale aj v budúcnosti. Nastavovaním kvalitných politík, opatrení a podporných služieb pre utečencov/odídencov je možné docieliť kvalitnú integráciu, predchádzať sociálnemu napätiu a využiť nielen výzvy, ale aj príležitosti, ktoré migrácia prináša, na celkový rozvoj lokálnych spoločenstiev.
 
 Nájdete tu rôzne informácie týkajúce sa situácie utečencov/odídencov, ako aj ich špecifiká a potreby. Zároveň uvádzame množstvo krokov, návrhov a opatrení, ktoré je potrebné realizovať vo všetkých oblastiach integrácie.

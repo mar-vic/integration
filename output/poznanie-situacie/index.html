@@ -70,7 +70,7 @@
       </div>
 
       <div class="d-flex d-none d-lg-block">
-        <button id="search-btn">
+        <button id="search-btn-lg">
           <i class="search-icon fa-solid fa-magnifying-glass fs-4"></i>
           <i class="fa-solid fa-xmark search-icon d-none fs-4"></i>
         </button>
@@ -328,6 +328,7 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
   let searchIcons = document.getElementsByClassName("search-icon");
   let searchInput = document.getElementById("search-input");
   let searchButton = document.getElementById("search-btn");
+  let searchButtonLg = document.getElementById("search-btn-lg");
   let mainNavBar = document.getElementById("main-nav");
 
 
@@ -345,6 +346,7 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
       searchIsActive = false;
 
       searchButton.classList.toggle("search-active");
+      searchButtonLg.classList.toggle("search-active");
       mainNavBar.classList.toggle("search-active");
 
       /* clear the input box when exitin search */
@@ -360,11 +362,13 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
       searchIsActive = true;
       searchInput.focus();
       searchButton.classList.toggle("search-active");
+      searchButton.classList.toggle("search-active");
       mainNavBar.classList.toggle("search-active");
     }
   }
 
   document.getElementById('search-btn').addEventListener('click', toggleSearch); // add an event listener to the search button
+  document.getElementById('search-btn-lg').addEventListener('click', toggleSearch);
 
   function createOrUpdateSearchEngineLink(e) {
     if (e.target.value) {

@@ -7,7 +7,7 @@
 
   <div class="row">
     {% if page.showpagehierarchy != 'False' %}
-    <aside id="page-hierarchy" class="col-2 order-1">
+    <aside id="page-hierarchy" class="d-none d-lg-block col-2 order-1">
       {% include "./partials/_page-hierarchy-nav.html" %}
     </aside>
     {% endif %}
@@ -21,14 +21,15 @@
           <h1 class="display-5 fw-bold" data-toc-skip>{{ page.title }}</h1>
         </header>
 
+        <!-- Responsive page toc -->
         {% if page.showtoc != 'False' %}
-        <section id="toc-small" class="d-lg-none d-block">
+        <section id="toc-small" class="d-lg-none d-block mb-3">
           <header>
             <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
               Na tejto stránke
             </button>
           </header>
-          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1"></nav>
         </section>
         {% endif %}
 

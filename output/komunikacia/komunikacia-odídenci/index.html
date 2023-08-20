@@ -122,6 +122,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Poskytovanie informácií utečencom / odídencom</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Informovanosť je jedným z najzásadnejších predpokladov úspešnej integrácie ľudí z cudziny, osobitne v prípade ľudí na úteku, ktorí nemali dostatok času na to, aby sa vopred pripravili na život v novej krajine.</p>
 <p>Táto potreba sa ukázala už krátko po vypuknutí vojny, a tak už v prvých dňoch vzniklo na Slovensku viacero informačných zdrojov, ktoré boli určené práve pre ľudí na úteku. Prvým z nich bola webstránka <a href="https://www.ukraineslovakia.sk">ukraineslovakia.sk</a>, ktorú vytvorila <a href="https://www.hrl.sk/sk">Liga za ľudské práva</a> v spolupráci s organizáciou <a href="https://mareena.sk/">Mareena</a>. Obsahovala základné informácie o tom, ako prísť a legálne zostať na Slovensku, o možnostiach ubytovania, dopravy či prístupu k zdravotnej starostlivosti. V súčasnosti je stránka rozšírená o informácie z ďalších oblastí života, ktoré ľudia potrebujú pre dlhodobejší život na Slovensku.</p>
 <p>Okrem toho bola vytvorená aj štátna webstránka <a href="https://www.ua.gov.sk">ua.gov.sk</a>, ktorá tiež obsahuje informácie potrebné na prekročenie hranice, na získanie dočasného útočiska či kontaktné informácie o vybraných organizáciách, ktoré poskytujú pomoc ľuďom z Ukrajiny. Stránka tiež obsahuje základné informácie o pracovných možnostiach, o prístupe k zdravotnej starostlivosti či sociálnej pomoci.</p>
@@ -216,7 +226,7 @@
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -406,6 +416,13 @@
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

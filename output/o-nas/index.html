@@ -105,6 +105,8 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>O nás</h1>
         </header>
+
+
         <p><img class="w-25 ps-4 pb-4 float-end" src="/static/images/integration-logo.jpg" /></p>
 <p>Táto webstránka je určená najmä samosprávam a ďalším aktérom, ktorí sa na lokálnej úrovni venujú téme začleňovania cudzincov, ale najmä ľudí na úteku (odídencov) do miestnych spoločenstiev. Otázka migrácie bude v budúcnosti čoraz aktuálnejšia a nasledujúce témy môžu samosprávam výrazne pomôcť túto situáciu zvládnuť nielen v súčasnosti, ale aj v budúcnosti. Nastavovaním kvalitných politík, opatrení a podporných služieb pre utečencov/odídencov je možné docieliť kvalitnú integráciu, predchádzať sociálnemu napätiu a využiť nielen výzvy, ale aj príležitosti, ktoré migrácia prináša, na celkový rozvoj lokálnych spoločenstiev.</p>
 <p>Nájdete tu rôzne informácie týkajúce sa situácie utečencov/odídencov, ako aj ich špecifiká a potreby. Zároveň uvádzame množstvo krokov, návrhov a opatrení, ktoré je potrebné realizovať vo všetkých oblastiach integrácie.</p>
@@ -295,6 +297,13 @@
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

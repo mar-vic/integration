@@ -134,6 +134,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Komunitné aktivity</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Už pred vypuknutím vojny na Ukrajine na Slovensku žilo mnoho cudzineckých komunít. Komunity sú tvorené ľuďmi, ktorých spája spoločný záujem, hodnoty alebo ciele. Tieto komunity samy môžu vytvárať spoločné aktivity. Dôležitá je však aj pomoc samospráv a iných aktérov, aby týmto komunitám vytvárala priestor a podmienky na tieto aktivity, zapájala ich do už existujúcich aktivít v meste a finančne ich podporovala.</p>
 <p>Zapájanie a prepájanie komunít v meste je veľmi dôležité z rôznych dôvodov:</p>
 <ul>
@@ -180,7 +190,7 @@
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -370,6 +380,13 @@
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

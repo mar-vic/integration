@@ -134,6 +134,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Vzdelávanie detí</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Vzdelávanie detí je veľmi dôležitou oblasťou, pretože podľa Dohovoru o právach dieťaťa má každé dieťa právo na vzdelanie a týka sa to aj detí cudzincov či utečencov/odídencov.</p>
 <p>Zapojenie do vzdelávacieho procesu deťom nielen poskytuje možnosť začať alebo pokračovať vo vzdelávaní, ale má dopad aj na mnohé ďalšie oblasti, ktoré ovplyvňujú integráciu. Ide napríklad o možnosť vytvárať si nové sociálne väzby, ktoré sú pre deti v tejto situácii dôležité, adaptovať sa na novú životnú situáciu, získavať nové zručnosti a podobne. Vzdelávanie v škole zároveň vytvára možnosti pre to, aby deti mali kde zmysluplne tráviť svoj čas, kým ich rodičia pracujú, čo je tiež veľmi dôležité pre integráciu utečencov/odídencov.</p>
 <p>Keďže samosprávy sú zriaďovateľmi väčšiny materských a základných škôl, môžu byť veľmi nápomocné pri vytváraní prostredia pre rýchle a efektívne zapájanie detí do vzdelávacieho systému. Môžu spolupracovať so školami, koordinovať ich aktivity, manažovať existujúce kapacity škôl, prípadne pomáhať vytvárať nové. Zároveň môžu v spolupráci so školami vytvárať na školách také prostredie, aby zapojenie detí do vzdelávania a ich adaptácia prebehla v najlepšom záujme detí cudzincov/utečencov/odídencov, ako aj všetkých ostatných detí.</p>
@@ -220,7 +230,7 @@
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -410,6 +420,13 @@
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

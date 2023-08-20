@@ -155,6 +155,32 @@ h1, h2, h3, h4, h5, h6 {
     border-left: 2px solid #003c63;
 }
 
+#toc-small button {
+    border-color: #3765a3 !important;
+    color: #3765a3 !important;
+}
+
+#toc-small button:hover {
+    background-color: #3765a3 !important;
+    color: white !important;
+}
+
+#toc-small nav {
+    border: 1px solid #dee2e6;
+    background-color: #f9fafb;
+    border-radius: 5px;
+}
+
+#toc-small a:hover {
+    border-left: none;
+    text-decoration: underline;
+}
+
+#toc-small button[aria-pressed="true"] {
+    background-color: #3765a3 !important;
+    color: white !important;
+}
+
 #page-hierarchy li.active, #page-hierarchy li:hover {
     border-left: 4px solid #003c63;
 }

@@ -105,6 +105,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Poznanie situácie - dáta a mapovanie potrieb</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Na to, aby bolo možné správne reagovať na novovzniknutú situáciu s príchodom cudzincov či odídencov (vo väčšom počte), je veľmi dôležité už od prvých dní dôsledne a efektívne zbierať dáta o prichádzajúcich ľuďoch. To umožňuje efektívnejšie nastavovať humanitárne opatrenia, krízové riešenia a neskôr aj dlhodobejšie podporné nástroje. </p>
 <h2>Humanitárna fáza</h2>
 <p>V prvých dňoch je dôležité nastavovať efektívny systém získavania informácií a dát o prichádzajúcich ľuďoch a identifikovať jednak základné údaje o nich (rod, vek, počet detí, vzdelanie) na poskytovanie efektívnych prvotných služieb, ale aj rôzne špecifické potreby súvisiace s týmito charakteristikami (napríklad ženy s malými deťmi, ľudia z etnických menšín, so zdravotným znevýhodnením či seniori). Dobré zmapovanie populácie v úvodných fázach je nevyhnutnou podmienkou nastavovania ďalších podporných opatrení a integračných služieb. </p>
@@ -207,7 +217,7 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -397,6 +407,13 @@ reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne 
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

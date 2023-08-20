@@ -121,6 +121,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Integrácia</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Integrácia je <span class="highlight">obojstranný proces</span>, v ktorom sa navzájom spoznávajú a ovplyvňujú komunity cudzincov/utečencov/odídencov a prijímajúca spoločnosť. <span class="highlight">Keď hovoríme o integrácii, máme na mysli vytváranie integrovanej, teda súdržnej spoločnosti</span>.</p>
 <p><span class="highlight">V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postaven</span>. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala <span class="highlight">pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia</span>. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.</p>
 <p>To, že ide o proces, by mohlo zvádzať k predstave, že má začiatok a koniec, že cudzinec či utečenec sa začína integrovať v deň, keď vstúpil na územie Slovenska, a jedného dňa o ňom bude možné povedať, že je plne integrovaný.</p>
@@ -141,7 +151,7 @@
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -331,6 +341,13 @@
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

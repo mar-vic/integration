@@ -134,6 +134,16 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>Kultúrny šok a s ním súvisiace potreby utečencov / odídencov</h1>
         </header>
+
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+
         <p>Pre každého človeka, ktorý príde na kratší či dlhší čas do inej krajiny, je typické, že vníma kultúrne rozdiely, nové situácie, neznámych ľudí a porovnáva to s tým, v čom vyrastal, čo bolo bežné v krajine, z ktorej pochádza. Ak sa človek do novej krajiny presťahuje, toto zlaďovanie je oveľa komplikovanejšie, pretože musí často prehodnotiť mnohé z toho, čo pozná, na čo je zvyknutý, a musí sa naučiť pravidlá v novej krajine. Tieto pravidlá môžu byť formálne, v podobe zákonov a rôznych noriem, ale aj neformálne, v podobe zvykov, tradícií, spôsobov správania, odlišností v jazykovom a inom prejave.</p>
 <p>Navyše ak ide o ľudí, ktorí boli nútení svoju krajinu opustiť veľmi rýchlo, napríklad v dôsledku vojny, prenasledovania či iných vážnych dôvodov, toto vyrovnávanie sa s novou situáciou je ešte komplikovanejšie a náročnejšie. Vstupuje do toho fakt, že sa nemohli na novú situáciu dostatočne pripraviť, čelia traumám prežitým vo svojej domovine a podobne. Zároveň sú odlúčení od svojich najbližších – manželov, otcov, blízkych príbuzných, kolegov či priateľov.</p>
 <p>Všetky tieto faktory vplývajú na fenomén zvaný <span class="highlight">kultúrny šok</span>. Ľudia, ktorí ním prechádzajú, sa môžu správať veľmi rôznorodo. Môžu byť veľmi aktívni, snažiť sa zapájať do diania okolo seba a snažiť sa „zapadnúť“ veľmi rýchlo. Môžu však čeliť aj mnohým ťažkostiam, ktoré sa s novou situáciou spájajú a s ktorými sa nevedia vyrovnať. Niekedy sa potom môžu javiť tak, že nereagujú adekvátne na vzniknutú situáciu, pôsobia nahnevane, pasívne alebo apaticky. Veľmi často sa toto správanie pripisuje kultúre, avšak ide len o sprievodné prejavy adaptácie na novú situáciu.</p>
@@ -218,7 +228,7 @@ je posledným štádiom, v ktorom si ľudia vytvárajú mechanizmy zvládania a 
       </article>
 
       <!-- Page TOC -->
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -408,6 +418,13 @@ je posledným štádiom, v ktorom si ľudia vytvárajú mechanizmy zvládania a 
   searchInput.addEventListener("input", createOrUpdateSearchEngineLink)
 
   </script>
+
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 
   <!-- Font awesome -->
   <script src="https://kit.fontawesome.com/b2fc40106a.js" crossorigin="anonymous"></script>

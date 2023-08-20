@@ -20,12 +20,24 @@
         <header>
           <h1 class="display-5 fw-bold" data-toc-skip>{{ page.title }}</h1>
         </header>
+
+        {% if page.showtoc != 'False' %}
+        <section id="toc-small" class="d-lg-none d-block">
+          <header>
+            <button id="tocToggleBtn" type="button" class="btn btn-outline-primary w-100 mt-2 mb-2 fw-bold" data-bs-toggle="button" autocomplete="off">
+              Na tejto stránke
+            </button>
+          </header>
+          <nav id="toc" data-toggle="toc" class="d-none fs-6 lh-s pt-2 pb-2 pe-2 ps-1 mb-3"></nav>
+        </section>
+        {% endif %}
+
         {{ page.content }}
       </article>
 
       <!-- Page TOC -->
       {% if page.showtoc != 'False' %}
-      <section class="col-3">
+      <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
             <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
@@ -41,4 +53,14 @@
 
 </div>
 
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script>
+let tocSmallNav = document.querySelector("#toc-small nav");
+document.getElementById("tocToggleBtn").addEventListener("click", function() {
+  tocSmallNav.classList.toggle("d-none")
+});
+</script>
 {% endblock %}

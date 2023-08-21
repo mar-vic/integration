@@ -14,7 +14,7 @@ title = "Integrácia"
 
 [[input.files]]
 path = "pages/komunikacia/komunikacia-odidenci.md"
-url = "/komunikacia/komunikacia-odídenci/"
+url = "/komunikacia/komunikacia-odidenci/"
 title = "Poskytovanie informácií utečencom / odídencom"
 
 [[input.files]]
@@ -29,7 +29,7 @@ title = "Komunikácia a informovanosť"
 
 [[input.files]]
 path = "pages/integracia/komunitne.md"
-url = "/integracia/komunitne-aktiviy/"
+url = "/integracia/komunitne-aktivity/"
 title = "Komunitné aktivity"
 
 [[input.files]]

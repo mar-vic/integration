@@ -6,9 +6,46 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mb-2 mb-lg-0">
-        {% for menuitem in MENUITEMS[1:] %}
-        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == menuitem[1] + '/' + 'index.html' %}active{% endif %}" href="{{ menuitem[1] }}">{{ menuitem[0] }}</a></li>
-        {% endfor %}
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/o-utecencoch/index.html' %}active{% endif %}" href="/o-utecencoch">O utečenoch</a></li>
+
+        <li class="nav-item">
+          <a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/integracia/index.html' %}active{% endif %}" href="/integracia">Integrácia</a>
+
+          <!-- Integration subnav -->
+          <ul class="nav d-lg-none {% if '/' + output_file == '/integracia/index.html' or '/' + output_file == '/integracia/kulturny-sok/index.html' or '/' + output_file == '/integracia/vzdelavanie-deti/index.html' or '/' + output_file == '/integracia/byvanie/index.html' or '/' + output_file == '/integracia/socialne-veci/index.html' or '/' + output_file == '/integracia/zdravotna-starostlivost/index.html'  or '/' + output_file == '/integracia/komunitne-aktivity/index.html' %}d-block{% else %}d-none{% endif %}">
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/kulturny-sok/index.html' %}active{% endif %}" href="/integracia/kulturny-sok">Kultúrny šok</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/vzdelavanie-deti/index.html' %}active{% endif %}" href="/integracia/vzdelavanie-deti">Vzdelávanie detí</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/byvanie/index.html' %}active{% endif %}" href="/integracia/byvanie">Bývanie</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/socialne-veci/index.html' %}active{% endif %}" href="/integracia/socialne-veci">Sociálne veci</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/zdravotna-starostlivost/index.html' %}active{% endif %}" href="/integracia/zdravotna-starostlivost">Zdravie</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/integracia/komunitne-aktivity/index.html' %}active{% endif %}" href="/integracia/komunitne-aktivity">Komunita</a></li>
+          </ul>
+
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/komunikacia/index.html' %}active{% endif %}" href="/komunikacia">Komunikácia</a>
+
+          <!-- Komunikacia subnav -->
+          <!-- Integration subnav -->
+          <ul class="nav d-lg-none {% if '/' + output_file == '/komunikacia/index.html' or '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' or '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}d-block{% else %}d-none{% endif %}">
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-odidenci">Komunikácia s odídencami</a></li>
+
+            <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-verejnost">Komunikácia s verejnosťou</a></li>
+          </ul>
+
+        </li>
+
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/poznanie-situacie/index.html' %}active{% endif %}" href="/poznanie-situacie">Poznanie situácie</a></li>
+
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/odborne-vzdelavanie/index.html' %}active{% endif %}" href="/odborne-vzdelavanie">Odborné vzdelávanie</a></li>
+
+        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/o-nas/index.html' %}active{% endif %}" href="/o-nas">O nás</a></li>
       </ul>
 
       <div class="d-flex mt-4 mt-lg-0 ms-auto me-auto">

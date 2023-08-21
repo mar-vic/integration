@@ -1,6 +1,6 @@
 Title: Poskytovanie informácií utečencom / odídencom
 MenuTitle: Komunikácia s odídencami
-Slug: komunikacia-odídenci
+Slug: komunikacia-odidenci
 Authors: Marek Vician
 Summary: Donec vitae dolor.
 ShowToc: True

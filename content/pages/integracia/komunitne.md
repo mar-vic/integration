@@ -1,6 +1,6 @@
 Title: Komunitné aktivity
 MenuTitle: Komunita
-Slug: komunitne-aktiviy
+Slug: komunitne-aktivity
 Authors: Marek Vician
 Summary: Donec vitae dolor.
 ShowToc: True

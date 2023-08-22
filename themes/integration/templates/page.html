@@ -3,7 +3,7 @@
 
 {% block content %}
 
-<div class="container mt-4">
+<div class="container mt-5">
 
   <div class="row">
     {% if page.showpagehierarchy != 'False' %}
@@ -18,7 +18,7 @@
       <!-- Page content -->
       <article id="page-content" class="col fs-5">
         <header>
-          <h1 class="display-5 fw-bold" data-toc-skip>{{ page.title }}</h1>
+          <h1 class="fs-1 fw-bold mb-3" data-toc-skip>{{ page.title }}</h1>
         </header>
 
         <!-- Responsive page toc -->
@@ -41,7 +41,7 @@
       <section class="col-3 d-lg-block d-none">
         <div class="sticky-top pt-3">
           <header>
-            <h2 data-toc-skip class="fs-4 fw-bold">Na tejto stránke</h2>
+            <h2 data-toc-skip class="fs-4 mt-0 mb-1 pt-0 fw-bold">Na tejto stránke</h2>
           </header>
           <nav id="toc" data-toggle="toc" class="fs-6 lh-s"></nav>
         </div>

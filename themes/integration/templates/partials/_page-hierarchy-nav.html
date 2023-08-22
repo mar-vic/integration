@@ -1,7 +1,7 @@
 <nav id="page-hierarchy-nav" class="pt-3 sticky-top">
   {% if page.parents %}
   <header class="nav-item">
-    <h2 data-toc-skip class="fs-3 text-muted fw-bold"><a class="pt-2 pb-2 nav-link" href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }}</a></h2>
+    <h2 data-toc-skip class="fs-3 mb-1 mt-0 pt-0 text-muted fw-bold"><a class="pt-2 pb-2 nav-link" href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }}</a></h2>
   </header>
 
   {% set level = 0 %}

@@ -30,9 +30,6 @@ ShowPageHierarchy: False
 </div>
 </div>
 
-<img class="w-100 mt-3 mb-5" src="/static/images/onas.png" />
-
-
 
 
 

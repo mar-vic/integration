@@ -16,7 +16,7 @@ V prvých dňoch je dôležité nastavovať efektívny systém získavania infor
 
 V ďalších fázach je na efektívne nastavovanie podporných služieb, komunitných aktivít a celkovej podpory pri začleňovaní odídencov (alebo akýchkoľvek cudzincov) veľmi dôležité, aby boli tieto podporné nástroje „šité na mieru“ a potreby samotných ľudí. 
 
-PZber dát a mapovanie potrieb je nevyhnutné realizovať z viacerých dôvodov:
+Zber dát a mapovanie potrieb je nevyhnutné realizovať z viacerých dôvodov:
 reto je kľúčové poznať kapacity jednotlivých inštitúcií, legislatívne možnosti, skúsenosti rôznych aktérov, ale predovšetkým <span class="highlight">špecifické potreby</span> ľudí prichádzajúcich do mesta. Lokálny kontext tiež zohráva dôležitú rolu, pretože jednotlivé mestá majú rôzne možnosti poskytovania pomoci a zároveň aj situácia samotných ľudí môže byť lokálne špecifická. 
 
 <h2 data-toc-text="Dôvody mapovania potrieb">Zber dát a mapovanie potrieb je nevyhnutné realizovať z viacerých dôvodov</h2>

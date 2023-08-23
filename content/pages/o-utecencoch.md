@@ -12,7 +12,7 @@ Vo februári 2022 aj na Slovensko začali prichádzať veľké počty ľudí, kt
 
 ## Základné pojmy
 
-Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem <span class="highlight"> osoba s udelenou medzinárodnou ochranov</span>, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií (definície významov, v ktorých sa nasledujúce termíny používajú v medzinárodnom kontexte sa nachádzajú napríklad na stránkach [Ligy za ľudské práva](https://www.hrl.sk/sk/info-o-migracii/azyl) alebo [Utečeneckej agentúry Organizácie Spojených národov](https://help.unhcr.org/slovakia/sk/information-for-people-coming-from-ukraine/temporary-protection/)):
+Pojem utečenec sa používa v medzinárodnom kontexte, avšak slovenská legislatíva takýto pojem nepozná. Na Slovensku sa používa pojem <span class="highlight"> osoba s udelenou medzinárodnou ochranou</span>, čím sa myslia utečenci, a aj tento pojem zahŕňa niekoľko ďalších kategórií (definície významov, v ktorých sa nasledujúce termíny používajú v medzinárodnom kontexte sa nachádzajú napríklad na stránkach [Ligy za ľudské práva](https://www.hrl.sk/sk/info-o-migracii/azyl) alebo [Utečeneckej agentúry Organizácie Spojených národov](https://help.unhcr.org/slovakia/sk/information-for-people-coming-from-ukraine/temporary-protection/)):
 
 
 {% from 'description-list.html' import descriptionList %}

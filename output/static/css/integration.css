@@ -229,11 +229,11 @@ h2, h3, h4, h5, h6 {
     /* color: #ffffff; */
     /* box-shadow: .5em 0 0 #3765a3, -.5em 0 0 #3765a3; */
     /* background-image: linear-gradient(to right, #3765A3, #003c63); */
-    background-color: #3765A3;
-    border-radius: 3px;
-    padding: 2px 4px;
-    color: #ffffff;
-    /* font-weight: bold; */
+    /* background-color: #3765A3; */
+    /* border-radius: 3px; */
+    /* padding: 2px 4px; */
+    /* color: #ffffff; */
+    font-weight: bold;
 }
 
 .highlight a {

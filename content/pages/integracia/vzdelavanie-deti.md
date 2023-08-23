@@ -20,20 +20,40 @@ Zároveň je potrebné v pomerne krátkom čase pripraviť učiteľov a iných z
  
 V tejto fáze je však dôležité realizovať niekoľko základných krokov, ktoré umožnia čo najlepšiu koordináciu aktivít a vytvorenie efektívneho mechanizmu zaraďovania do škôl a škôlok:
 
-1. <strong class="highlight">Efektívny zber dát a údajov o deťoch, ktoré majú byť zaradené do vzdelávania</strong>
-  Už pri registrácii ľudí v danej samospráve sa ako veľmi efektívne javí vytvoriť systém zberu dát o vekovej štruktúre detí a ich potrebách pre zaradenie do rôznych typov vzdelávania. Tento zber by mal prebiehať koordinovane a jednotlivé odbory samosprávy by si mali odovzdávať informácie o tom, ktoré deti a v akých počtoch by mali byť zaradené do systému vzdelávania. Už pri registrácii je zároveň možné identifikovať aspoň základné charakteristiky, prípadne potreby detí (napríklad informácie o zdravotnom znevýhodnení detí alebo špecifickej situácii, v ktorej sa nachádzajú). Presné dáta o vekovej štruktúre detskej populácie, ktorá získala dočasné útočisko či iný typ pobytu v danej samospráve, následne umožnia ich začleňovanie do rôznych typov škôl.
+<ol>
+<li>
+<strong class="highlight">Efektívny zber dát a údajov o deťoch, ktoré majú byť zaradené do vzdelávania</strong> 
+<p>
+Už pri registrácii ľudí v danej samospráve sa ako veľmi efektívne javí vytvoriť systém zberu dát o vekovej štruktúre detí a ich potrebách pre zaradenie do rôznych typov vzdelávania. Tento zber by mal prebiehať koordinovane a jednotlivé odbory samosprávy by si mali odovzdávať informácie o tom, ktoré deti a v akých počtoch by mali byť zaradené do systému vzdelávania. Už pri registrácii je zároveň možné identifikovať aspoň základné charakteristiky, prípadne potreby detí (napríklad informácie o zdravotnom znevýhodnení detí alebo špecifickej situácii, v ktorej sa nachádzajú). Presné dáta o vekovej štruktúre detskej populácie, ktorá získala dočasné útočisko či iný typ pobytu v danej samospráve, následne umožnia ich začleňovanie do rôznych typov škôl.
+</p>
+</li>
 
-2. <strong class="highlight">Identifikácia kapacít jednotlivých typov škôl a manažovanie budúcich kapacít</strong>
-  samosprávy ako zriaďovatelia materských a základných škôl majú najlepší prehľad o kapacitách týchto zariadení. V prvom kroku je preto potrebné vytvoriť efektívnu databázu škôl a školských zariadení vzhľadom na ich voľné kapacity. Je možné prihliadať aj na to, v ktorých školských obvodoch je na dočasné útočisko zaregistrovaný väčší počet detí (napríklad v blízkosti veľkokapacitných ubytovacích zariadení), a vziať do úvahy tento fakt pri plánovaní rozširovania kapacít. Ak kapacity nie je možné zvyšovať v týchto školách, je možné uvažovať o systéme školských autobusov alebo iných foriem zabezpečenia dopravy do škôl, kde sú kapacity dostatočné. V tomto prípade je kľúčová komunikácia a koordinácia s riaditeľmi všetkých škôl v danej samospráve. Najmä v prípade materských škôl sa ukazuje, že kapacity bývajú veľmi limitované a nie je možné ich v krátkom čase zvýšiť. V tomto prípade je dôležité, aby samospráva vytvárala menej formalizované možnosti zriaďovania zariadení (detských skupín, centier voľného času, klubov) či už vo vlastnej réžii, alebo v spolupráci s mimovládnymi organizáciami, prípadne inými aktérmi, ktorí môžu byť nápomocní.
-  
-3. <strong class="highlight">Identifikácia škôl, do ktorých budú deti zaraďované prednostne</strong>
-  pri zaraďovaní detí do škôl môže samospráva zvoliť rôzne stratégie. Jednou z nich je možnosť rozmiestniť deti do väčšieho počtu škôl tak, aby boli deti rozdelené v školách rovnomerne. To prináša viacero výhod, ale aj nevýhod. Výhodou je to, že nebude dochádzať k segregácii detí tým, že sa sústredia len na jednu školu a budú vzdelávané oddelene od ostatných detí. Zároveň „záťaž“ na jednotlivé školy bude tiež rozdelená rovnomernejšie.
+<li>
+<strong class="highlight">Identifikácia kapacít jednotlivých typov škôl a manažovanie budúcich kapacít</strong>
+<p>
+  Samosprávy ako zriaďovatelia materských a základných škôl majú najlepší prehľad o kapacitách týchto zariadení. V prvom kroku je preto potrebné vytvoriť efektívnu databázu škôl a školských zariadení vzhľadom na ich voľné kapacity. Je možné prihliadať aj na to, v ktorých školských obvodoch je na dočasné útočisko zaregistrovaný väčší počet detí (napríklad v blízkosti veľkokapacitných ubytovacích zariadení), a vziať do úvahy tento fakt pri plánovaní rozširovania kapacít. Ak kapacity nie je možné zvyšovať v týchto školách, je možné uvažovať o systéme školských autobusov alebo iných foriem zabezpečenia dopravy do škôl, kde sú kapacity dostatočné. V tomto prípade je kľúčová komunikácia a koordinácia s riaditeľmi všetkých škôl v danej samospráve. Najmä v prípade materských škôl sa ukazuje, že kapacity bývajú veľmi limitované a nie je možné ich v krátkom čase zvýšiť. V tomto prípade je dôležité, aby samospráva vytvárala menej formalizované možnosti zriaďovania zariadení (detských skupín, centier voľného času, klubov) či už vo vlastnej réžii, alebo v spolupráci s mimovládnymi organizáciami, prípadne inými aktérmi, ktorí môžu byť nápomocní.
+</p>
+</li>
 
-Skúsenosti z uplynulého obdobia a [názory odborníkov](https://www.vzdelavacieanalyzy.sk/zaclenovanie-deti-z-ukrajiny-do-vzdelavania-hlavne-problemy-a-odporucania/) sa však začínajú prikláňať k tomu, aby si samosprávy vytipovali <span class="highlight">školy, kam budú deti odídencov umiestňované prednostne</span>. Tento názor vyplýva z toho, že podpora vzdelávania detí odídencov je veľmi komplexná a vyžaduje si veľké množstvo odborných kapacít, podporných nástrojov a s tým spojených zdrojov. Je totiž nevyhnutné poskytovať kvalifikované jazykové vzdelávanie a rôzne typy odbornej podpory (napríklad pedagogickej, ale aj psychologickej).
+<li>
+<strong class="highlight">Identifikácia škôl, do ktorých budú deti zaraďované prednostne</strong>
+<p>
+pri zaraďovaní detí do škôl môže samospráva zvoliť rôzne stratégie. Jednou z nich je možnosť rozmiestniť deti do väčšieho počtu škôl tak, aby boli deti rozdelené v školách rovnomerne. To prináša viacero výhod, ale aj nevýhod. Výhodou je to, že nebude dochádzať k segregácii detí tým, že sa sústredia len na jednu školu a budú vzdelávané oddelene od ostatných detí. Zároveň „záťaž“ na jednotlivé školy bude tiež rozdelená rovnomernejšie.
+</p>
 
+<p>
+Skúsenosti z uplynulého obdobia a <a href="https://www.vzdelavacieanalyzy.sk/zaclenovanie-deti-z-ukrajiny-do-vzdelavania-hlavne-problemy-a-odporucania/">názory odborníkov</a> sa však začínajú prikláňať k tomu, aby si samosprávy vytipovali <span class="highlight">školy, kam budú deti odídencov umiestňované prednostne</span>. Tento názor vyplýva z toho, že podpora vzdelávania detí odídencov je veľmi komplexná a vyžaduje si veľké množstvo odborných kapacít, podporných nástrojov a s tým spojených zdrojov. Je totiž nevyhnutné poskytovať kvalifikované jazykové vzdelávanie a rôzne typy odbornej podpory (napríklad pedagogickej, ale aj psychologickej).
+</p>
+
+<p>
 Samosprávy v spolupráci so školami tak môžu vytvoriť spoločný systém zaraďovania detí, pričom na školy, kam sa budú deti zaraďovať prednostne, bude smerovaná komplexná finančná, materiálna a odborná podpora na ich vzdelávanie, aby boli efektívne realizované aktivity, ktoré popisujeme neskôr v časti „integračná fáza“. Ostatné školy, kde budú zaraďované deti v menších počtoch, môžu potom čerpať zo skúseností, odbornosti a vytvorených podporných nástrojov, ktoré boli sústredené v školách s vyšším počtom detí. Opäť je veľmi dôležitá kvalitná spolupráca a koordinácia.
+</p>
 
+<p>
 V tejto súvislosti je však nutné zdôrazniť, že je dôležité už v tejto fáze dobre plánovať a mať na pamäti, že je potrebné predchádzať segregácii vo vzdelávaní a zároveň mnohé podporné opatrenia vnímať ako dočasné s cieľom čo najskoršieho plného začlenenia detí.
+</p>
+</li>
+</ol>
 
 ### Materiálna pomoc a podpora
 
@@ -63,7 +83,7 @@ Na zabezpečenie kvalitnej podpory a integračných nástrojov pre deti utečenc
 
 ### Jazyková podpora žiakov
 
-V súčasnosti je možné poskytovať jazykové vzdelávanie vďaka podpore štátu – teda organizovaním kurzov slovenského jazyka, ktoré sú financované prostredníctvom regionálnych úradov školskej správy. Viac informácií o možnostiach poskytovania týchto kurzov je možné nájsť tu. Samosprávy môžu pomôcť školám zorientovať sa v týchto pokynoch a možnostiach a koordinovať postupy škôl. 
+V súčasnosti je možné poskytovať jazykové vzdelávanie vďaka podpore štátu – teda organizovaním kurzov slovenského jazyka, ktoré sú financované prostredníctvom regionálnych úradov školskej správy. Viac informácií o možnostiach poskytovania týchto kurzov je možné nájsť [tu](https://www.minedu.sk/jazykovy-kurz-pre-deti-cudzincov/). Samosprávy môžu pomôcť školám zorientovať sa v týchto pokynoch a možnostiach a koordinovať postupy škôl. 
 
 Ideálne je, ak je jazyková príprava poskytovaná komplexne a dlhodobo. Mala by byť prvou prioritou pri začleňovaní detí do vzdelávacieho procesu. Tu však ide predovšetkým o úlohu štátu, ktorý by mal zabezpečiť jazykové kurzy priamo na školách tak, aby boli dostatočne dlhé, kvalitné a aby reagovali na skutočnú potrebu detí podľa ich vedomostí a znalostí.
 

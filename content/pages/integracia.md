@@ -8,7 +8,7 @@ ShowPageHierarchy: True
 
 Integrácia je <span class="highlight">obojstranný proces</span>, v ktorom sa navzájom spoznávajú a ovplyvňujú komunity cudzincov/utečencov/odídencov a prijímajúca spoločnosť. <span class="highlight">Keď hovoríme o integrácii, máme na mysli vytváranie integrovanej, teda súdržnej spoločnosti</span>.
 
-<span class="highlight">V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postaven</span>. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala <span class="highlight">pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia</span>. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.
+<span class="highlight">V takejto spoločnosti vytvárajú ľudia s rôznym etnickým a kultúrnym pôvodom nový celok, ktorý je však založený na ich rovnocennom postavení</span>. To vyžaduje nielen život vedľa seba, ale najmä skutočné spolužitie. Spoločnosť by teda mala <span class="highlight">pre všetkých vytvárať také možnosti, aby sa mohli cítiť ako jej plnohodnotní členovia</span>. Aby každý mohol povedať „tu sa cítim doma, sem patrím, cítim sa tu prijatý“.
 
 To, že ide o proces, by mohlo zvádzať k predstave, že má začiatok a koniec, že cudzinec či utečenec sa začína integrovať v deň, keď vstúpil na územie Slovenska, a jedného dňa o ňom bude možné povedať, že je plne integrovaný.
 

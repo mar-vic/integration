@@ -45,8 +45,15 @@
 
         <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/odborne-vzdelavanie/index.html' %}active{% endif %}" href="/odborne-vzdelavanie">Odborné vzdelávanie</a></li>
 
+        <li class="nav-item">
+            <a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/index.html' %}active{% endif %}" href="/data-a-statistiky">Dáta a štatistiky</a>
+            <ul class="nav d-lg-none {% if '/' + output_file == '/komunikacia/index.html' or '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' or '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}d-block{% else %}d-none{% endif %}">
+                <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-odidenci">Komunikácia s odídencami</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-verejnost">Komunikácia s verejnosťou</a></li>
+            </ul>
+        </li>
+
         <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/o-nas/index.html' %}active{% endif %}" href="/o-nas">O nás</a></li>
-        <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/o-nas/index.html' %}active{% endif %}" href="/o-nas">Dáta a štatistiky</a></li>
       </ul>
 
       <div class="d-flex mt-4 mt-lg-0 ms-auto me-auto">

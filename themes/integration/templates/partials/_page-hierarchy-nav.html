@@ -1,7 +1,7 @@
 <nav id="page-hierarchy-nav" class="pt-3 sticky-top">
   {% if page.parents %}
   <header class="nav-item">
-    <h2 data-toc-skip class="fs-3 mb-1 mt-0 pt-0 text-muted fw-bold"><a class="pt-2 pb-2 nav-link" href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }}</a></h2>
+    <h2 data-toc-skip class="fs-4 mb-1 mt-0 pt-0 text-muted fw-bold"><a class="pt-2 pb-2 nav-link" href="{{ SITE_URL }}/{{ page.parents[0].url }}">{{ page.parents[0].title }}</a></h2>
   </header>
 
   {% set level = 0 %}
@@ -9,7 +9,7 @@
   <ul class="nav flex-column">
     {% for child in page.parents[0].children recursive %}
     <li class="nav-item {% if child.url == page.url %}active{% endif %} mb-1">
-      <a class="fs-4 nav-link text-muted fw-bold lh-1" href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a>
+      <a class="fs-5 nav-link text-muted fw-bold lh-1" href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a>
       {% if child.children and ( child.url == page.url or page.parents|map(attribute='url')|list()|select('equalto', child.url)|first() ) %}
       <ul style="padding-left:15px">
         {{ loop(child.children) }}
@@ -22,11 +22,11 @@
   {% else %}
 
   <header>
-    <h2 data-toc-skip class="fs-3 mb-1 mt-0 pt-0 fw-bold">Podstránky</h2>
+    <h2 data-toc-skip class="fs-4 mb-1 mt-0 pt-0 fw-bold">Podstránky</h2>
   </header>
   <ul class="nav flex-column">
     {% for child in page.children %}
-    <li class="nav-item mb-1"><a class="fs-4 text-muted fw-bold nav-link lh-1" href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a></li>
+    <li class="nav-item mb-1"><a class="fs-5 text-muted fw-bold nav-link lh-1" href="{{ SITE_URL }}/{{ child.url }}">{{ child.menutitle }}</a></li>
     {% endfor %}
   </ul>
 

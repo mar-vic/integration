@@ -8,6 +8,26 @@ url = "/integracia/byvanie/"
 title = "Bývanie"
 
 [[input.files]]
+path = "pages/data-and-stats/cudzinecka-policia.md"
+url = "/data-and-stats/cudzinecka-policia/"
+title = "Úrad hraničnej cudzineckej polície"
+
+[[input.files]]
+path = "pages/data-and-stats.md"
+url = "/data-and-stats/"
+title = "Dáta a štatistiky"
+
+[[input.files]]
+path = "pages/data-and-stats/data-vzdelavanie.md"
+url = "/data-and-stats/data-vzdelavanie/"
+title = "Dáta z oblasti vzdelávania"
+
+[[input.files]]
+path = "pages/data-and-stats/ine-datove_zdroje.md"
+url = "/data-and-stats/ine-datove-zdroje/"
+title = "Iné dátové zdroje"
+
+[[input.files]]
 path = "pages/integracia.md"
 url = "/integracia/"
 title = "Integrácia"
@@ -63,9 +83,24 @@ url = "/poznanie-situacie/"
 title = "Poznanie situácie - dáta a mapovanie potrieb"
 
 [[input.files]]
+path = "pages/data-and-stats/samospravne-registre.md"
+url = "/data-and-stats/samospravne_registre/"
+title = "Samosprávne registre"
+
+[[input.files]]
 path = "pages/integracia/socialne-veci.md"
 url = "/integracia/socialne-veci/"
 title = "Sociálne veci"
+
+[[input.files]]
+path = "pages/data-and-stats/statisticky-urad.md"
+url = "/data-and-stats/statisticky-urad/"
+title = "Štatistický úrad"
+
+[[input.files]]
+path = "pages/data-and-stats/ustredie-prace-soc-rodiny.md"
+url = "/data-and-stats/ustredie-prace-soc-rodiny/"
+title = "Ústredie práce, sociálnych vecí a rodiny SR"
 
 [[input.files]]
 path = "pages/integracia/vzdelavanie-deti.md"

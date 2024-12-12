@@ -52,6 +52,214 @@ Ide skôr o uvedomenie si toho, že rôzni ľudia z rozličných prostredí nevy
 
 8. <strong class="highlight">Sebareflexia</strong>. Človek, ktorý komunikuje efektívne, sa nepozerá len von, ale aj dovnútra. Nájdite si čas na zamyslenie sa nad vlastným štýlom komunikácie, riadenia alebo motivácie a zistite, čo môžete prípadne aj vy sami zmeniť.
 
+## Etický kódex pracovníkov a pracovníkov s utečencami a utečenkami
+
+### Prečo je dôležité mať zadefinovaný etický kódex pracovníkov a pracovníčok poskytujúcich služby a podporu utečencom a utečenkám?
+
+Ľudia utekajúci z rôznych krajín pred vojnou či rasovým, náboženským
+alebo politickým prenasledovaním sa ocitajú v novej krajine vo veľmi
+špecifickej situácii. Čelia veľkej neistote ohľadom svojej budúcnosti a
+mnohí a mnohé zažili traumy, s ktorými sa v novom prostredí len ťažko
+vyrovnávajú. Nepoznajú prostredie, pravidlá či kultúrne kódy krajiny, do
+ktorej prišli a nemajú tu svojich „významných druhých".
+
+Samosprávy týmto ľuďom často poskytujú rôzne podporné služby, pomáhajú
+s poskytovaním humanitárnej či inej pomoci a po určitom čase ich
+sprevádzajú aj integračným procesom (ak sa nemôžu vrátiť do krajiny
+pôvodu).
+
+Na to, aby bola táto podpora efektívna, rešpektujúca a zohľadňujúca
+potreby a špecifickú situáciu utečencov a utečeniek, je dôležité riadiť
+sa viacerými princípmi.
+
+### Základné princípy a hodnoty práce s utečencami a utečenkami
+
+Každá ľudská bytosť je osobou jedinečnej hodnoty, ktorej dôstojnosť a
+právo na život a slobodu musia byť zachované. Preto by sa s utečencami a
+utečenkami nemalo zaobchádzať ako s homogénnou skupinou. Líšia sa
+svojimi názormi, hodnotami, kultúrnymi zvyklosťami, ale aj osobnostnými
+charakteristikami a životnou skúsenosťou.
+
+Všetci utečenci a utečenky majú okrem svojej individuálnej situácie aj
+spoločné ľudské potreby vyplývajúce z ich utečeneckej skúsenosti. To je
+potrebné zohľadňovať pri formulovaní politík a aj pri poskytovaní
+služieb a akejkoľvek inej podpory zo strany samospráv a iných
+organizácií na lokálnej úrovni.
+
+Pracovníci a pracovníčky by sa pri poskytovaní služieb a podpory
+utečencom a utečenkám mali riadiť [Všeobecnou deklaráciou ľudských
+práv](https://www.amnesty.sk/wp-content/uploads/2012/01/UDHRvSVK.pdf),
+ktorá presadzuje **podporu ľudskej dôstojnosti a hodnoty** každého
+jednotlivca, a tiež rovnosť a nediskrimináciu. Pracovníci a pracovníčky
+by mali prejavovať rešpekt voči každému človeku bez ohľadu na jeho
+pôvod, národnosť, farbu pleti, rod, jazyk, socio-ekonomický status,
+náboženské vyznanie alebo iné charakteristiky. Dôležitým princípom je
+tiež rešpekt ku **kultúre, zvykom a tradíciám** utečencov a utečeniek.
+Pracovníci a pracovníčky by zároveň mali **podporovať čo najväčšiu
+participáciu** ľudí, ktorým sa poskytuje podpora, pričom cieľom je
+dosiahnuť, aby utečenci a utečenky ako jednotlivci, rodiny, či komunity
+mohli rozvíjať svoj vlastný potenciál.
+
+Etické správanie pracovníkov a pracovníčok, ktorí prichádzajú do
+kontaktu s utečencami a utečenkami, je nevyhnutné na to, aby poskytované
+služby a podpora boli skutočne efektívne. Neetickosť v poskytovaní
+podpory a služieb bude mať negatívny vplyv na všetkých.
+
+V prístupe k utečencom a utečenkám sa neočakáva, že existuje pravidlo
+pre každú situáciu. Prístup k cieľovej skupine usmerňujú hodnoty, ktoré
+slúžia ako morálny kompas usmerňujúci konanie pracovníkov a pracovníčok
+v akejkoľvek situácii. Je potrebné mať vždy na pamäti, že správanie sa
+voči utečencom a utečenkám počas poskytovania služieb a podpory, bude
+mať dopad na vzťahy samosprávy s príjemcami podpory, partnermi
+a darcami, ale aj na medziľudské vzťahy v pracovnom kolektíve.
+
+Nasledujúci text prináša samosprávam inšpiráciu, čo by mohol obsahovať
+etický kódex pracovníkov a pracovníčok, ktorí/é prichádzajú vo svojej
+práci do kontaktu s utečencami a utečenkami.
+
+V texte používame pojem pracovníci a pracovníci, pod ktorým máme na
+mysli zamestnancov/kyne samospráv, pracovníkov/čky na čiastočný úväzok
+či brigádnickú dohodu, externých konzultantov a konzultantky, ale aj
+dobrovoľníkov a dobrovoľníčky -- teda všetkých pracovníkov
+a pracovníčky, ktoré konajú v mene samosprávy.
+
+### Záväzok pracovníkov a pracovníčok poskytujúcich podporu a pomoc utečencom a utečenkám
+
+Schopnosť mesta \[NÁZOV\] zabezpečiť ochranu a pomoc utečencom
+a utečenkám závisí od schopnosti jeho pracovníkov a pracovníčok
+dodržiavať a presadzovať najvyššie normy etického a profesionálneho
+správania. Pracovníci a pracovníčky mesta \[NÁZOV\] sú osobne a
+kolektívne zodpovední za dodržiavanie týchto noriem a očakáva sa od
+nich, že budú konať v súlade so zásadami a hodnotami uvedenými etickom
+kódexe.
+
+Tento kódex sa vzťahuje na všetkých pracovníkov a pracovníčky, teda na
+zamestnancov a zamestnankyne, pracovníkov a pracovníčky na čiastočný
+úväzok či brigádnickú dohodu, externých konzultantov i dobrovoľníkov
+a dobrovoľníčky, ktoré konajú v mene mesta \[NÁZOV\]. Tento kódex platí
+pre každého pracovníka a pracovníčku 24 hodín denne, aj v čase osobného
+voľna, pretože pracovníci a pracovníčky mesta \[NÁZOV\] sú vnímaní ako
+jeho reprezentanti tak počas pracovného času, ako aj mimo neho.
+
+Pracovníci a pracovníčky poskytujúce pomoc a podporu utečencom a
+utečenkám sa zaväzujú, že budú rešpektovať a riadiť sa nasledovnými
+princípmi:
+
+#### 1) Rešpekt a dôstojnosť
+
+- Budem rešpektovať všetky osoby rovnako a bez akéhokoľvek
+  rozlišovania alebo diskriminácie na základe národnosti, rasy,
+  etnického pôvodu, rodu, náboženského presvedčenia, politického
+  názoru alebo zdravotného postihnutia.
+
+- Budem rešpektovať zvyky a obyčaje ľudí alebo skupín ľudí, s ktorými
+  prichádzam do kontaktu a budem sa vyhýbať akémukoľvek správaniu,
+  ktoré je neakceptovateľné v kultúrnom kontexte osoby, ktorej
+  poskytujem podporu.
+
+- Ak však kultúrny kontext, zvyky a tradície odporujú medzinárodným
+  dohodám a normám v oblasti ľudských práv, uprednostním správanie,
+  ktoré je plne v súlade s medzinárodnými normami ochrany ľudských
+  práv.
+
+- Vždy budem brať do úvahy špecifické a často veľmi náročné životné
+  situácie ktorým utečenci a utečenky čelili a ktoré prežili, ako aj
+  nevýhodné postavenie, v ktorom sa môžu nachádzať vo vzťahu k tým,
+  ktorí majú moc alebo vplyv na určité aspekty ich života.
+
+- Vždy sa budem usilovať o starostlivosť a ochranu práv
+  najzraniteľnejších osôb: detí vrátane sirôt a odlúčených detí, žien,
+  osamelých rodičov, starších, zdravotne znevýhodnených a chronicky
+  chorých osôb a obzvlášť zraniteľných menšinových skupín. Budem konať
+  tak, aby som zabezpečil/a, že ich najlepší záujem bude prvoradý.
+
+- Ak moja práca zahŕňa priamu prácu s dotknutými osobami, budem sa
+  snažiť plne pochopiť ich skúsenosti a potreby.
+
+- Vo svojej práci budem prejavovať rešpekt, súcit a dodržiavať
+  diskrétnosť voči všetkým citlivým informáciám, ktoré budem mať
+  k dispozícii.
+
+- Uvedomujem si, že nie je akceptovateľné akékoľvek správanie, ktoré
+  možno označiť ako sexuálne zneužívanie, obťažovanie alebo
+  vykorisťovanie (podľa [definícií OSN](https://www.unhcr.org/what-we-do/how-we-work/tackling-sexual-exploitation-abuse-and-harassment/what-sexual-exploitation))
+
+#### 2) Osobné a profesionálne správanie
+
+- Zaväzujem sa, že nezneužijem moc a vplyv, ktoré mám z titulu svojej
+  funkcie v kontakte a pri poskytovaní podpory či už samotným
+  utečencom, ale aj v kontakte s ostatnými zamestnancami a inými
+  osobami.
+
+- Nikdy nebudem požadovať ani prijímať žiadne služby alebo dary od
+  utečencov a utečeniek výmenou za poskytnutie podpory.
+
+- Nikdy sa nebudem zapájať do žiadnych vykorisťovateľských vzťahov -
+  sexuálnych, citových, finančných alebo súvisiacich s poskytovaním
+  podpory a služieb utečencom, utečenkám a iným osobám.
+
+- Budem trpezlivý/á, úctivý/á a zdvorilý/á ku všetkým ľuďom, s ktorými
+  budem v rámci svojej práce prichádzať do kontaktu.
+
+- Budem dodržiavať najvyššiu úroveň profesionálneho správania či už
+  v osobnom kontakte, alebo v online prostredí. To okrem iného zahŕňa,
+  že nebudem zverejňovať urážlivé, hanlivé alebo nenávistné informácie
+  a vyhnem sa akémukoľvek správaniu, ktoré by mohlo ohroziť ľudí,
+  ktorým poskytujem podporu alebo služby.
+
+#### 3) Média, informácie a informačné technológie
+
+- Budem dbať o to, aby akékoľvek zobrazovanie utečencov a utečeniek z
+  mojej strany a zo strany inštitúcie, ktorú reprezentujem,
+  rešpektovalo ich dôstojnosť, osobnú situáciu a zraniteľnosť.
+
+- Pri uverejňovaní akýchkoľvek informácií alebo situácií sa budem
+  riadiť pravidlami a princípmi obsiahnutými v časti „rešpekt
+  a dôstojnosť" so špeciálnym dôrazom na zraniteľnosť utečencov.
+
+- Vždy si vyžiadam súhlas dotknutých osôb na zverejnenie akýchkoľvek
+  fotografií, video alebo audionahrávok, či iných foriem zobrazovania.
+
+- Budem dbať na to, aby som dotknutým osobám vždy vysvetlil/a formu
+  a účel, na ktorý budú tieto fotografie, nahrávky, či iné materiály
+  využité.
+
+- Zaväzujem sa, že nezverejním žiadne dôverné informácie, ktoré som
+  získal/a alebo sa dozvedel/a počas svojej práce s utečencami
+  a utečenkami.
+
+- Vyhlasujem, že nepoužijem ani iným spôsobom nesprístupním iným
+  osobám osobné údaje utečencov a utečeniek, ku ktorým som získal/a
+  prístup alebo ktoré mi boli inak sprístupnené na pracovné účely.
+
+- Vždy budem uplatňovať primerané bezpečnostné opatrenia, aby som
+  zabránil/a akémukoľvek porušeniu dôvernosti alebo súkromia, pokiaľ
+  ide o osobné informácie, s ktorými vo svojej práci prichádzam do
+  kontaktu.
+
+#### 4) Konflikt záujmov
+
+- Pri poskytovaní služieb a podpory utečencom a utečenkám budem konať
+  bez ohľadu na môj osobný prospech a budem odolávať akýmkoľvek
+  politickým tlakom.
+
+- Potenciálny konflikt záujmov, ktorému by som mohol/mohla čeliť pri
+  poskytovaní služieb a podpory utečencom a utečenkám, nahlásim svojim
+  nadriadeným.
+
+- pri poskytovaní služieb a podpory utečencom a utečenkám.
+
+- Nebudem sa podieľať na činnostiach súvisiacich s obstarávaním tovaru
+  alebo služieb alebo na činnostiach v oblasti ľudských zdrojov, kde
+  by mohlo dôjsť ku konfliktu záujmov.
+
+- Nebudem prijímať ani poskytovať úplatky vrátane spätných úplatkov
+  akéhokoľvek druhu.
+
+<div class="position-relative">
+<img src="/static/images/dedication.jpg" class="d-block ms-auto me-auto mt-4" style="width:85%" alt="Spolupracujeme s UNHCR" />
+</div>
+
 ## Sociálnoprávne tréningy
 
 Okrem rozvoja zručností z oblasti interkultúrnej komunikácie je pre pracovníkov samosprávy a ďalších relevantných aktérov (napr. MVO, dobrovoľníkov, inštitúcií štátnej správy na lokálnej úrovni) dôležité vzdelávať sa aj o sociálnych a právnych otázkach, ktoré sa týkajú života utečencov v ich meste. 

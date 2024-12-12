@@ -50,8 +50,3 @@ a utečencov/iek na lokálnej úrovni, vrátane rôznych zraniteľných skupín
 Prinášame preto popis jednotlivých dátových zdrojov, dát o
 cudzincoch/kách a utečencoch/kách, ktoré obsahujú (vrátane ich členenia
 podľa rôznych kategórií) a možností, ako tieto dáta získať.
-
-<div class="position-relative">
-    <img src="/static/images/dedication.jpg" class="d-block ms-auto me-auto mt-4" style="width:85%" alt="Spolupracujeme s UNHCR" />
-</div>
-

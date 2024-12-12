@@ -171,16 +171,7 @@ mať prihlásený pobyt na adrese v jednom meste, avšak zdržiavať sa
 v inom. To platí najmä o cudzincoch s udeleným dočasným útočiskom, ale
 aj o ďalších kategóriách. V prípade občanov EÚ zároveň často dochádza
 k tomu, že sa z pobytu neodhlasujú, keď zo Slovenska odchádzajú, a tak
-môžu v dátach dlhodobo figurovať ako prítomní na území SR. Nemožnosť
-zabezpečiť kvalitu a spoľahlivosť dát ÚHCP zdôvodňuje tým, že nemá
-kapacity na preverovanie, či sa cudzinci reálne zdržiavajú na adrese, na
-ktorej majú registrovaný pobyt. 
-
-Ďalšou výzvou je, **ako zabezpečiť prístup samospráv k dátam
-o cudzincoch, ktorí žijú na ich území**. ÚHCP momentálne nevidí ako
-reálne uzatváranie dohôd/memoránd o spolupráci so samosprávami
-o poskytovaní dát, ani zmenu legislatívy, ktorá by túto povinnosť
-cudzineckej polícii ukladala.
+môžu v dátach dlhodobo figurovať ako prítomní na území SR. 
 
 Otázkou tiež zostáva, **čo sa deje s informáciami o vydaných a zrušených
 povoleniach na pobyt** štátnych príslušníkov tretích krajín, ktoré

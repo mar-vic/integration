@@ -1,4 +1,4 @@
-<nav id="main-nav" class="navbar navbar-expand-lg container">
+<nav id="main-nav" class="navbar navbar-expand-xl container">
   <div class="container-fluid">
     <a class="navbar-brand fw-bold fs-3" href="{{ SITEURL + '/' }}">Integration</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,9 +47,13 @@
 
         <li class="nav-item">
             <a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/index.html' %}active{% endif %}" href="/data-a-statistiky">Dáta a štatistiky</a>
-            <ul class="nav d-lg-none {% if '/' + output_file == '/komunikacia/index.html' or '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' or '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}d-block{% else %}d-none{% endif %}">
-                <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-odidenci/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-odidenci">Komunikácia s odídencami</a></li>
-                <li class="nav-item"><a class="nav-link fw-bolder {% if '/' + output_file == '/komunikacia/komunikacia-verejnost/index.html' %}active{% endif %}" href="/komunikacia/komunikacia-verejnost">Komunikácia s verejnosťou</a></li>
+            <ul class="nav d-lg-none {% if '/' + output_file == '/data-a-statistiky/index.html' or '/' + output_file == '/data-a-statistiky/cudzinecka-policia/index.html' or '/' + output_file == '/data-a-statistiky/samospravne-registre/index.html' or '/' + output_file == '/data-a-statistiky/statisticky-urad/index.html' or '/' + output_file == '/data-a-statistiky/data-vzdelavanie/index.html' or '/' + output_file == '/data-a-statistiky/ustredie-prace-soc-rodiny/index.html' or '/' + output_file == '/data-a-statistiky/ine-datove-zdroje/index.html' %}d-block{% else %}d-none{% endif %}">
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/cudzinecka-policia/index.html' %}active{% endif %}" href="/data-a-statistiky/cudzinecka-policia">Úrad hraničnej cudzineckej polície</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/samospravne-registre/index.html' %}active{% endif %}" href="/data-a-statistiky/samospravne-registre">Samosprávne registre</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/statisticky-urad/index.html' %}active{% endif %}" href="/data-a-statistiky/statisticky-urad">Štatistický úrad</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/data-vzdelavanie/index.html' %}active{% endif %}" href="/data-a-statistiky/data-vzdelavanie/">Dáta z oblasti vzdelávania</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/ustredie-prace-soc-rodiny/index.html' %}active{% endif %}" href="/data-a-statistiky/ustredie-prace-soc-rodiny">Ústredie práce, sociálnych vecí a rodiny</a></li>
+                <li class="nav-item"><a class="nav-link fw-bolder fs-6 {% if '/' + output_file == '/data-a-statistiky/ine-datove-zdroje/index.html' %}active{% endif %}" href="/data-a-statistiky/ine-datove-zdroje">Iné dátové zdroje</a></li>
             </ul>
         </li>
 

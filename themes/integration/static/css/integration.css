@@ -2,6 +2,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color: red !important;
 }
 
 a { color: #3765a3; }
@@ -16,6 +17,11 @@ h2, h3, h4, h5, h6 {
     margin-top: 20px;
     margin-bottom: 15px;
 }
+
+/* MAIN NAV */
+/* #main-nav a { */
+/*     font-size: 5px !important; */
+/* } */
 
 /* SEARCH INTERFACE (STORK) */
 
@@ -241,6 +247,17 @@ h2, h3, h4, h5, h6 {
 }
 
 /* Rules for smaller displays */
+@media screen and (max-width: 1400px) and (min-width: 1200px){
+    #main-nav {
+        margin-left: unset;
+        max-width: 100%;
+    }
+
+    #main-nav a:not(.navbar-brand) {
+        font-size: 15px !important;
+    }
+}
+
 @media screen and (max-width: 992px){
     #site-logo-big {
         width: 100%;
